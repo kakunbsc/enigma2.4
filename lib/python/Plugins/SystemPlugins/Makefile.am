@@ -1,0 +1,3 @@
+SUBDIRS = SoftwareManager FrontprocessorUpgrade PositionerSetup Satfinder \
+	SkinSelector SatelliteEquipmentControl Videomode VideoTune Hotplug NetworkWizard VideoEnhancement \
+	DefaultServicesScanner NFIFlash DiseqcTester CommonInterfaceAssignment CrossEPG FactoryTest Fancontrol CleanupWizard

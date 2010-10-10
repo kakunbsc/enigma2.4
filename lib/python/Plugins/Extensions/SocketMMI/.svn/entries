@@ -1,0 +1,106 @@
+8
+
+dir
+24541
+svn://git.opendreambox.org/enigma2/trunk/lib/python/Plugins/Extensions/SocketMMI
+svn://git.opendreambox.org/enigma2
+
+
+
+2009-07-20T14:07:29.000000Z
+24538
+acidburn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bf829d75-1dd9-4499-be8c-69f82e57a408
+
+LICENSE
+file
+
+
+
+
+2009-03-13T04:01:18.000000Z
+423c5d018f8701a8cc38b2fc3a4398d7
+2008-03-15T10:24:25.000000Z
+4520
+andreas.monzner
+
+SocketMMI.py
+file
+
+
+
+
+2009-03-13T04:01:18.000000Z
+fba869bb4506fd45ea59ecf6138a27a8
+2008-05-21T08:37:30.000000Z
+4755
+andreas.monzner
+
+plugin.py
+file
+
+
+
+
+2009-04-09T16:17:15.000000Z
+e93058942e095cc0275ba839a4eaadd2
+2009-03-31T13:51:31.000000Z
+24017
+tmbinc
+
+__init__.py
+file
+
+
+
+
+2009-03-13T04:01:18.000000Z
+d784fa8b6d98d27699781bd9a7cf19f0
+2007-11-23T18:03:59.000000Z
+4286
+andreas.monzner
+
+meta
+dir
+
+src
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-03-13T04:01:18.000000Z
+432f91ec375f7883c712352cb9bacc71
+2008-05-20T21:07:38.000000Z
+4754
+andreas.monzner
+
+.cvsignore
+file
+
+
+
+
+2009-03-13T04:01:18.000000Z
+9023837136e199985f8392456385c0e7
+2008-01-25T00:55:38.000000Z
+4390
+tmbinc
+

@@ -1,0 +1,30 @@
+<default>
+	  <prerequisites>
+                    <hardware type="dm8000" />
+                    <hardware type="dm800" />
+                    <hardware type="dm500hd" />
+                    <tag type="Display" />
+                    <tag type="System" />
+	  </prerequisites>
+          <info language="en">
+                    <author>Dream Multimedia</author>
+                    <name>VideoEnhancement</name>
+                    <packagename>enigma2-plugin-systemplugins-videoenhancement</packagename>
+                    <shortdescription>VideoEnhancement provides advanced video enhancement settings.</shortdescription>
+                    <description>The VideoEnhancement extension provides advanced video enhancement settings.</description>
+                    <screenshot src="http://www.dreamboxupdate.com/preview/plugin_videoenhancement_en.jpg" />
+          </info>
+          <info language="de">
+                    <author>Dream Multimedia</author>
+                    <name>Erweiterte A/V Einstellungen</name>
+                    <packagename>enigma2-plugin-systemplugins-videoenhancement</packagename>
+                    <shortdescription>Erweiterte A/V Einstellungen für Ihre STB.</shortdescription>
+                    <description>Erweiterte A/V Einstellungen für Ihre STB.</description>
+                    <screenshot src="http://www.dreamboxupdate.com/preview/plugin_videoenhancement_de.jpg" />
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-videoenhancement" />
+	</files>
+
+</default>

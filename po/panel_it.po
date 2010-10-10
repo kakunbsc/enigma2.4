@@ -1,0 +1,672 @@
+# nemesisAddons.py
+msgid "Addons Manager"
+msgstr "Gestione Addons"
+
+msgid ""
+"Connetting to addons server.\n"
+"Please wait..."
+msgstr ""
+"Connessione al server addons.\n"
+"Attendere prego..."
+
+msgid "Download Addons"
+msgstr "Scaricare Addons"
+
+msgid "Download Extra"
+msgstr "Scaricare Extra"
+
+msgid "File xml is not correctly formatted!."
+msgstr "Formato file XML non corretto!."
+
+msgid ""
+"Server not found!\n"
+"Please check internet connection."
+msgstr ""
+"Server non trovato!\n"
+"Controlla il collegamento internet."
+
+msgid ""
+"Process Killed by user\n"
+"Server Not Connected!"
+msgstr ""
+"Processo interrotto da utente\n"
+"Server non connesso!"
+
+msgid "Manual Package Install"
+msgstr "Installazione Manuale"
+
+msgid "Remove Addons"
+msgstr "Rimuovere Addons"
+
+msgid ""
+"Loading elements.\n"
+"Please wait..."
+msgstr ""
+"Caricamento elementi.\n"
+"Attendere prego..."
+
+msgid "Download "
+msgstr "Scaricare "
+
+msgid ""
+"Not enough space!\n"
+"Please delete addons before install new."
+msgstr ""
+"Spazio Insufficiente!\n"
+"Cancellare prima qualche addons."
+
+msgid "Download: "
+msgstr "Scaricare: "
+
+msgid ""
+"Installing addons.\n"
+"Please Wait..."
+msgstr ""
+"Installazione addons.\n"
+"Attendere prego..."
+
+#, python-format
+msgid ""
+"File: %s\n"
+"is not a valid package!"
+msgstr ""
+"File: %s\n"
+"non é un pacchetto valido!"
+
+msgid "Addon installed succesfully!"
+msgstr "Addon installato correttamente!"
+
+msgid ""
+"Enigma2 will be now hard restarted to complete package installation.\n"
+"Do You want restart enigma2 now?"
+msgstr ""
+"Enigma2 deve essre riavviato per completare l'installazione.\n"
+"Vuoi riavvaire Enigma2 adesso?"
+
+msgid "Restart Enigma2"
+msgstr "Riavvio Enigma2"
+
+msgid ""
+"Process Killed by user.\n"
+"Addon not installed correctly!"
+msgstr ""
+"Processo interrotto da utente.\n"
+"Addon non installato correttamente!"
+
+msgid "Manual Installation"
+msgstr "Installatione Manuale"
+
+msgid ""
+"Put your plugin xxx.tbz2 or xxx.ipk\n"
+"via FTP in /tmp."
+msgstr ""
+"Metti il plugin xxx.tbz2 o xxx.ipk\n"
+"via FTP in /tmp."
+
+#, python-format
+msgid ""
+"Do you want install the addon:\n"
+"%s?"
+msgstr ""
+"Vuoi installare l'addon:\n"
+"%s?"
+
+msgid "Install Addon"
+msgstr "Installare Addon"
+
+#, python-format
+msgid ""
+"Installing: %s.\n"
+"Please wait..."
+msgstr ""
+"Installare: %s.\n"
+"Attendere prego..."
+
+#, python-format
+msgid ""
+"Addon: %s\n"
+"installed succesfully!"
+msgstr ""
+"Addon: %s\n"
+"installato correttamente!"
+
+msgid "Nothing to uninstall!"
+msgstr "Niente da rimuovere!"
+
+#, python-format
+msgid "Do you want remove the addon:\n%s?"
+msgstr "Vuoi rimuovere l'addon:\n%s?"
+
+#, python-format
+msgid ""
+"Removing: %s.\n"
+"Please wait..."
+msgstr ""
+"Rimozione: %s.\n"
+"Attendere prego..."
+
+#, python-format
+msgid ""
+"Addons: %s\n"
+"removed succeffully."
+msgstr ""
+"Addons: %s\n"
+"Rimosso correttamente."
+
+msgid ""
+"Process Killed by user.\n"
+"Addon not removed completly!"
+msgstr ""
+"Processo interrotto da utente.\n"
+"Addon non rimosso correttamente!"
+
+# nemesisBluePanel.py
+msgid "System Settings"
+msgstr "Configurazione Sistema"
+
+msgid "System Information"
+msgstr "Informazioni Sistema"
+
+msgid "Parental Control Setup"
+msgstr "Gestione Controllo Parentale"
+
+msgid "Use arrows < > to select"
+msgstr "Usa le frecce < > per selezionare"
+
+#, python-format
+msgid "SoftCam (%s) :"
+msgstr "Emulatori (%s) :"
+
+msgid "Downloading Ferrari info..."
+msgstr "Ricezione Ferrari info..."
+
+#, python-format
+msgid "Stopping %s and starting %s."
+msgstr "Arresto %s e Avvio %s."
+
+#, python-format
+msgid "Restarting %s."
+msgstr "Riavvio %s."
+
+#, python-format
+msgid "Stopping %s."
+msgstr "Arresto %s."
+
+#, python-format
+msgid "Starting %s."
+msgstr "Avvio %s."
+
+#, python-format
+msgid "Please stop %s\nbefore start cardserver!"
+msgstr "Devi arrestare %s\nprima di avviare il cardserver!"
+
+# nemesisConsole
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Please Press OK Button to close windows!"
+msgstr "Premi il Tasto OK per chiudere la finestra!"
+
+msgid "Action killed by user"
+msgstr "Azione interrotta da utente"
+
+# nemesisEpgPanel
+#, python-format
+msgid ""
+"Problem to write on %s.\n"
+"Try to reboot the machine!"
+msgstr ""
+"Problema si scrittura su %s.\n"
+"Prova a riavviare la macchina!"
+
+msgid "Device in Read-Only"
+msgstr "Device in sola scrittura"
+
+msgid ""
+"Do you want download EPG\n"
+"using e2_loadepg?"
+msgstr ""
+"Vuoi scaricare EPG\n"
+"usando e2_loadepg?"
+
+#, python-format
+msgid ""
+"Load EPG data in Enigma cache from:\n"
+"%s/epg.dat.\n"
+"Please Wait..."
+msgstr ""
+"Carico i dati EPG nella cache di Enigma2 da:\n"
+"%s/epg.dat.\n"
+"Attendere prego..."
+
+msgid "Loading EPG"
+msgstr "Caricamento  EPG"
+
+msgid ""
+"Erasing EPG Chache.\n"
+"Please Wait..."
+msgstr ""
+"Cancellazione della cache EPG.\n"
+"Attendere prego..."
+
+msgid "Erasing EPG cache"
+msgstr "Cancellazione cache EPG"
+
+msgid "Enter event to search:"
+msgstr "Immetti evento da cercare:"
+
+msgid "Search in EPG cache"
+msgstr "Ricerca nella cache EPG"
+
+#, python-format
+msgid ""
+"Backup Enigma EPG data on:\n"
+"%s.\n"
+"Please Wait..."
+msgstr ""
+"Salvataggio dati EPG su:\n"
+"%s.\n"
+"Attendere prego..."
+
+msgid "Backing-up EPG"
+msgstr "Salvataggio EPG"
+
+msgid "e2_loadepg is running..."
+msgstr "e2_loadepg in esecuzione..."
+
+msgid "Download EPG SKY-IT is running..."
+msgstr "Scarico EPG SKY-IT in esecuzione..."
+
+msgid "Download EPG SKY-UK is running..."
+msgstr "Scarico EPG SKY-UK in esecuzione..."
+
+#, python-format
+msgid ""
+"File %s/epg.dat.\n"
+"Not Found!"
+msgstr ""
+"File %s/epg.dat.\n"
+"Non trovato!"
+
+msgid "Backup Error"
+msgstr "Errore di salvataggio"
+
+msgid "EPG Search (enigma2)"
+msgstr "Ricerca EPG (enigma2)"
+
+msgid "EPG Search (EDG)"
+msgstr "Ricerca EPG (EDG)"
+
+msgid "EPG Search History (EDG)"
+msgstr "Storico ricerca EPG (EDG)"
+
+msgid "Download EPG with CrossEPG"
+msgstr "Scaricare EPG con CrossEPG"
+
+msgid "Start e2_loadepg (background)"
+msgstr "Avviare e2_loadepg (background)"
+
+msgid "Start e2_loadepg (interactive)"
+msgstr "Avviare e2_loadepg (inter.)"
+
+msgid "Backup Enigma EPG cache"
+msgstr "Salavataggio cache EPG"
+
+msgid "Load EPG in Enigma cache"
+msgstr "Caricare EPG nella cache"
+
+msgid "Erase Enigma EPG cache"
+msgstr "Svuota la cache EPG di Enigma"
+
+msgid "Create EPG Timer Entry"
+msgstr "Crea EPG Timer Entry"
+
+msgid "Open Timer List"
+msgstr "Apri lista Timer"
+
+msgid "View EPG Timer Log"
+msgstr "Mostra EPG Timer Log"
+
+msgid "EPG Configuration"
+msgstr "Configura EPG"
+
+msgid "Sorry no events found matching to the search criteria."
+msgstr "Nessun evento corrispondente ai criteri di ricerca trovato!."
+
+# nemesisInfo.py
+msgid "Show Device Status"
+msgstr "Mostra Stato Device"
+
+msgid "Show Memory Status"
+msgstr "Mostra Stato Memoria"
+
+msgid "Show Active Process"
+msgstr "Mostra Processi Attivi"
+
+msgid "Show Service Info"
+msgstr "Mostra Informazioni Servizio"
+
+msgid "Show Enigma Settings"
+msgstr "Mostra Configurazione Enigma"
+
+msgid "Active Process Information"
+msgstr "Info Processi Attivi"
+
+msgid "Memory Status"
+msgstr "Stato Memoria"
+
+msgid "Usage Device Status"
+msgstr "Stato Occupazione Device"
+
+msgid "Enigma Setting Info"
+msgstr "Info Configurazione Enigma"
+
+msgid "FERRARI Firmware Info"
+msgstr "Info firmware FERRARI"
+
+msgid "Compact Flash Not Found"
+msgstr "Compact Flash Non Trovata"
+
+msgid "Usb Not Found"
+msgstr "Usb Non Trovata"
+
+msgid "Hard Disk Not Found"
+msgstr "Hard Disk Non Trovato"
+
+# nemesisSetting.py
+msgid ""
+"Saving Enigma Setting\n"
+"Please Wait..."
+msgstr ""
+"Salvataggio configurazioni Enigma\n"
+"Attendere prego..."
+
+msgid ""
+"Saving Setting.\n"
+"Please wait..."
+msgstr ""
+"Salvataggio configurazioni\n"
+"Attendere prego..."
+
+# nemesisShowPanel
+#, python-format
+msgid "File: %s not found!"
+msgstr "File: %s non trovato!"
+
+# nemesisUtility.py
+msgid "System Utility"
+msgstr "Utilità Sistema"
+
+msgid "No device for swap found!"
+msgstr "Nessun device per swap trovato!"
+
+msgid "Swap Error"
+msgstr "Errore Swap"
+
+msgid "Saving"
+msgstr "Salvataggio"
+
+msgid "Start/Stop Services"
+msgstr "Avvio/Arresto dei Servizi"
+
+msgid "View Services Logs"
+msgstr "Mostra Logs dei Servizi"
+
+msgid "Manage Startup Services"
+msgstr "Gestione Avvio dei Servizi"
+
+msgid "Execute commands"
+msgstr "Esegui Comandi"
+
+msgid "Execute Users Scripts"
+msgstr "Esegui Scripts Utente"
+
+msgid "Manage Swap File"
+msgstr "Gestione File di Swap"
+
+msgid "Execute command: "
+msgstr "Esegui comando: "
+
+msgid "No Users Script Found!"
+msgstr "Nessun Script d'utente Trovato!"
+
+msgid "Execute script: "
+msgstr "Esegui script: "
+
+msgid "Manage Services"
+msgstr "Gestione dei Servizi"
+
+msgid "Start"
+msgstr "Avvio"
+
+msgid "Activate NFS Server at boot?"
+msgstr "Avviare NFS Server al boot?"
+
+msgid "Activate Samba Server at boot?"
+msgstr "Avviare Samba Server al boot?"
+
+msgid "Activate Automount at boot?"
+msgstr "Avviare Automount al boot?"
+
+msgid "Activate OpenVPN at boot?"
+msgstr "Avviare OpenVPN al boot?"
+
+msgid "Activate IpUpdate at boot?"
+msgstr "Avviare IpUpdate al boot?"
+
+msgid "Activate InaDyn at boot?"
+msgstr "Avviare InaDyn al boot?"
+
+msgid "Activate Dropbear (SSH) at boot?"
+msgstr "Avviare Dropbear (SSH) al boot?"
+
+msgid "Activate FTP Server at boot?"
+msgstr "Avviare FTP Server al boot?"
+
+msgid "Activate Crontab at boot?"
+msgstr "Avviare Crontab al boot?"
+
+msgid "Saving Setting. Please wait..."
+msgstr "Salvataggio configurazioni. Attendere prego..."
+
+msgid "Services Logs"
+msgstr "Logs dei Servizi"
+
+msgid "Show InaDyn Log"
+msgstr "Mostra Log InaDyn"
+
+msgid "Show SMB Server Log"
+msgstr "Mostra Log SMB Server"
+
+msgid "Show NMB Log"
+msgstr "Mostra Log NMB"
+
+msgid "Show FTP Server Log"
+msgstr "Mostra Log FTP Server"
+
+msgid "Show OpenVPN Log"
+msgstr "Mostra Log OpenVPN"
+
+msgid "Delete Log Files"
+msgstr "Cancellare files di Log"
+
+msgid "Delete InaDyn log file?"
+msgstr "Cancellare InaDyn log file?"
+
+msgid "Delete NMB log file?"
+msgstr "Cancellare NMB log file?"
+
+msgid "Delete SMB log file?"
+msgstr "Cancellare SMB log file?"
+
+msgid "Delete FTP log file?"
+msgstr "Cancellare FTP log file?"
+
+msgid "Delete OpenVPN log file?"
+msgstr "Cancellare OpenVPN log file?"
+
+msgid "Delete Enigma Crash log file?"
+msgstr "Cancellare Enigma Crash log file?"
+
+msgid "Deleting log files. Please wait..."
+msgstr "Cancellazione files di log. Attendere Prego..."
+
+msgid "Activate Swap File?"
+msgstr "Attivare lo Swap file?"
+
+msgid "Swap file size"
+msgstr "Grandezza file di Swap"
+
+msgid "Swap file location"
+msgstr "Percorso file di Swap"
+
+msgid "Saving swap config. Please wait..."
+msgstr "Salvataggio configurazione Swap. Attendere prego..."
+
+msgid "Creating Swap file..."
+msgstr "Creazione file di Swap..."
+
+msgid "Deleting Swap file..."
+msgstr "Rimozione file di Swap..."
+
+msgid "Nothing to do!"
+msgstr "Niente da configurare!"
+
+msgid "Swap process completed successfully!"
+msgstr "Prcesso creazione completato con succeso!"
+
+msgid "Swap process killed by user!"
+msgstr "Processo interrotto da utente!"
+
+msgid "Manage Kernel Modules"
+msgstr "Gestione Moduli Kernel"
+
+msgid "Manage Modules"
+msgstr "Gestione Moduli"
+
+msgid "Save Enigma Setting"
+msgstr "Salva Configurazioni"
+
+# nemesis.xml
+msgid "Setup InfoBar OSD"
+msgstr "Configura InfoBar OSD"
+
+msgid "Show Extended Info Permanent"
+msgstr "Mostra Extended Info in modo permanente"
+
+msgid "Extended Infobar delay (msec)"
+msgstr "Ritardo Extended Infobar (msec)"
+
+msgid "Show decode network details"
+msgstr "Mostra dettagli decodifica in rete"
+
+msgid "EMM Info delay (msec)"
+msgstr "Ritardo EMM Info (msec)"
+
+msgid "ECM Info delay (msec)"
+msgstr "Ritardo ECM Info (msec)"
+
+msgid "Set InfoBar Picon type"
+msgstr "Scegli tipo Picon per InfoBar"
+
+msgid "Setup Console"
+msgstr "Configura Console"
+
+msgid "Auto close Console on finished event"
+msgstr "Chiudi automaticamente la Console"
+
+msgid "Delay before auto close Console (sec)"
+msgstr "Ritardo prima della chiusura Console (sec)"
+
+msgid "Enable VirtualKeyBoard (Experimental)"
+msgstr "Abilitare la VirtualKeyBoard (Sperimentale)"
+
+msgid "Setup Display LCD"
+msgstr "Configura Display LCD"
+
+msgid "Brightness on vision"
+msgstr "Luminosità in visione"
+
+msgid "Show Picon on LCD? (Need GUI Restart)"
+msgstr "Mostra Picon in LCD? (Necessario riavvio GUI)"
+
+msgid "Set LCD Picon type"
+msgstr "Scelgi tipo Picon per LCD"
+
+msgid "Setup Picon"
+msgstr "Configura Picon"
+
+msgid "Can Install Picon in HDD?"
+msgstr "Posso installre le Picon su HDD?"
+
+msgid "Setup InaDyn"
+msgstr "Configura InaDyn"
+
+msgid "Set user"
+msgstr "Imposta user"
+
+msgid "Set password"
+msgstr "Imposta password"
+
+msgid "Set domain name"
+msgstr "Imposta nome dominio"
+
+msgid "Set server"
+msgstr "Imposta server"
+
+msgid "Set update period (sec)"
+msgstr "Imposta periodo di aggiornamento (sec)"
+
+msgid "Set DNS System"
+msgstr "Scelgi sistema DNS"
+
+msgid "Set log file"
+msgstr "Imposta file di log"
+
+msgid "Setup EZ-IpUpdate"
+msgstr "Configura EZ-IpUpdate"
+
+msgid "Setup Proxy"
+msgstr "Configura Proxy"
+
+msgid "Activate proxy?"
+msgstr "Attivare proxy?"
+
+msgid "Set Proxy Server"
+msgstr "Imposta Server Proxy"
+
+msgid "Set Proxy Server port"
+msgstr "Imposta Porta Server Proxy"
+
+msgid "EPG Enigma cache save path"
+msgstr "Percorso di salvataggio cache EPG di Enigma"
+
+msgid "Number of displayed element on search"
+msgstr "Numero di elementi visualizzati nella ricerca"
+
+msgid "Zap delay before download EPG"
+msgstr "Ritardo Zap prima di scaricare EPG"
+
+msgid "Download EPG SKY-IT"
+msgstr "Scaricare EPG SKY-IT"
+
+msgid "Channel to download EPG SKY-IT"
+msgstr "Canale per la ricezione EPG SKY-IT"
+
+msgid "Download EPG SKY-UK"
+msgstr "Scaricare EPG SKY-UK"
+
+msgid "Channel to download EPG SKY-UK"
+msgstr "Canale per la ricezione EPG SKY-UK"
+
+msgid "Clear enigma cache before load EPG"
+msgstr "Pulisci la cache di Enigma prima di caricare EPG"
+
+msgid "Clear Backup EPG after clear Enigma cache"
+msgstr "Cancella backup EPG dopo pulizia cache Enigma"
+
+msgid "Enable EPG Download via Timer"
+msgstr "Abilta lo scarico di EPG con il Timer"
+
+msgid "No Delay"
+msgstr "Nessuno"

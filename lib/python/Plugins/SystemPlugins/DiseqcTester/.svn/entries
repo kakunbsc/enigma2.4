@@ -1,0 +1,67 @@
+8
+
+dir
+24541
+svn://git.opendreambox.org/enigma2/trunk/lib/python/Plugins/SystemPlugins/DiseqcTester
+svn://git.opendreambox.org/enigma2
+
+
+
+2009-07-20T14:07:29.000000Z
+24538
+acidburn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bf829d75-1dd9-4499-be8c-69f82e57a408
+
+plugin.py
+file
+
+
+
+
+2009-04-09T16:17:16.000000Z
+42c5ae57789ea8543fbd62683c88d507
+2009-03-31T13:51:31.000000Z
+24017
+tmbinc
+
+__init__.py
+file
+
+
+
+
+2009-04-03T07:29:26.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-02-11T11:52:48.000000Z
+23999
+tmbinc
+
+meta
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-04-03T07:29:26.000000Z
+2150a40905f058ad856feadad2c1bf1b
+2009-02-11T11:52:48.000000Z
+23999
+tmbinc
+

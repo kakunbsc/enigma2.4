@@ -1,0 +1,66 @@
+<setupxml>
+	<setup key="osd" title="Setup InfoBar OSD">
+		<item level="0" text="Show Extended Info Permanent">config.dbp.einfo</item>
+		<item level="0" text="Extended Infobar delay (msec)">config.dbp.einfotimeout</item>
+		<item level="0" text="Infobar timeout (sec)">config.usage.infobar_timeout</item>
+		<item level="0" text="Show decode network details">config.dbp.shownetdet</item>
+		<item level="0" text="EMM Info delay (msec)">config.dbp.emminfodelay</item>
+		<item level="0" text="ECM Info delay (msec)">config.dbp.ecminfodelay</item>
+		<item level="0" text="Set InfoBar Picon type">config.dbp.picontype</item>
+	</setup>
+	<setup key="lcd" title="Setup Display LCD">
+		<item level="0" text="Brightness">config.lcd.bright</item>
+		<item level="0" text="Brightness on vision">config.lcd.lcdbri</item>
+		<item level="0" text="Contrast">config.lcd.contrast</item>
+		<item level="0" text="Standby">config.lcd.standby</item>
+		<item level="0" text="Show Picon on LCD? (Need GUI Restart)">config.dbp.piconlcd</item>
+		<item level="0" text="Set LCD Picon type">config.dbp.piconlcdtype</item>
+	</setup>
+	<setup key="console" title="Setup Console">
+		<item level="0" text="Auto close Console on finished event">config.dbp.autocloseconsole</item>
+		<item level="0" text="Delay before auto close Console (sec)">config.dbp.autocloseconsoledelay</item>
+		<item level="0" text="Enable VirtualKeyBoard (Experimental)">config.dbp.usevkeyboard</item>
+	</setup>
+	<setup key="picon" title="Setup Picon">
+		<item level="0" text="Set InfoBar Picon type">config.dbp.picontype</item>
+		<item level="0" text="Show Picon on LCD? (Need GUI Restart)">config.dbp.piconlcd</item>
+		<item level="0" text="Set LCD Picon type">config.dbp.piconlcdtype</item>
+		<item level="0" text="Can Install Picon in HDD?">config.dbp.usepiconinhdd</item>
+	</setup>
+	<setup key="inadyn" title="Setup InaDyn">
+		<item level="0" text="Set user">config.inadyn.user</item>
+		<item level="0" text="Set password">config.inadyn.password</item>
+		<item level="0" text="Set domain name">config.inadyn.alias</item>
+		<item level="0" text="Set update period (sec)">config.inadyn.period</item>
+		<item level="0" text="Set DNS System">config.inadyn.system</item>
+		<item level="0" text="Set log file">config.inadyn.log</item>
+	</setup>
+	<setup key="ipupdate" title="Setup EZ-IpUpdate">
+		<item level="0" text="Set user">config.ipupdate.user</item>
+		<item level="0" text="Set password">config.ipupdate.password</item>
+		<item level="0" text="Set domain name">config.ipupdate.alias</item>
+		<item level="0" text="Set server">config.ipupdate.server</item>
+		<item level="0" text="Set update period (sec)">config.ipupdate.period</item>
+		<item level="0" text="Set DNS System">config.ipupdate.system</item>
+		<item level="0" text="Set log file">config.ipupdate.log</item>
+	</setup>
+	<setup key="proxy" title="Setup Proxy">
+		<item level="0" text="Activate proxy?">config.proxy.isactive</item>
+		<item level="0" text="Set Proxy Server">config.proxy.server</item>
+		<item level="0" text="Set Proxy Server port">config.proxy.port</item>
+		<item level="0" text="Set user">config.proxy.user</item>
+		<item level="0" text="Set password">config.proxy.password</item>
+	</setup>
+	<setup key="epg" title="EPG Configuration">
+		<item level="0" text="EPG Enigma cache save path">config.nemepg.path</item>
+		<item level="0" text="Number of displayed element on search">config.nemepg.elemnum</item>
+		<item level="0" text="Zap delay before download EPG">config.nemepg.zapdelay</item>
+		<item level="0" text="Download EPG SKY-IT">config.nemepg.downskyit</item>
+		<item level="0" text="Channel to download EPG SKY-IT">config.nemepg.skyitch</item>
+		<item level="0" text="Download EPG SKY-UK">config.nemepg.downskyuk</item>
+		<item level="0" text="Channel to download EPG SKY-UK">config.nemepg.skyukch</item>
+		<item level="0" text="Clear enigma cache before load EPG">config.nemepg.clearcache</item>
+		<item level="0" text="Clear Backup EPG after clear Enigma cache">config.nemepg.clearbackup</item>
+		<item level="0" text="Enable EPG Download via Timer">config.nemepg.enatimer</item>
+	</setup>
+</setupxml>

@@ -1,0 +1,5 @@
+<screen position="400,460" size="280,75" title="CrossEPG">
+	<widget name="action" halign="center" valign="center" position="5,2" size="270,20" font="Regular;16" />
+	<widget name="status" halign="center" valign="center" position="5,25" size="270,20" font="Regular;15" />
+	<widget name="progress" position="5,55" size="270,15" borderWidth="1" />
+</screen>

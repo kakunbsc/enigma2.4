@@ -1,0 +1,54 @@
+8
+
+dir
+24541
+svn://git.opendreambox.org/enigma2/trunk/lib/python/Plugins/SystemPlugins/Hotplug/meta
+svn://git.opendreambox.org/enigma2
+
+
+
+2009-07-20T14:07:29.000000Z
+24538
+acidburn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bf829d75-1dd9-4499-be8c-69f82e57a408
+
+plugin_hotplug.xml
+file
+
+
+
+
+2009-07-21T10:54:07.000000Z
+4badf6d185fa905b13168bbffe538b16
+2009-07-20T14:07:29.000000Z
+24538
+acidburn
+has-props
+
+Makefile.am
+file
+
+
+
+
+2009-07-21T10:54:07.000000Z
+c1066004c9daafc8e9e9af52058bb746
+2009-07-20T14:07:29.000000Z
+24538
+acidburn
+has-props
+

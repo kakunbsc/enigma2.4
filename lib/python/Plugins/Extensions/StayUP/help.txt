@@ -1,0 +1,18 @@
+stayUP - For lazy people
+
+Il Plugin permette di eliminare il lavoro manuale legato all'aggiornamento di settings, Picons ed EPG. 
+Configurazione:
+	- Enable Plugin: Permette di abilitare o disabilitare il download automatico.(Yes = Abilitato)
+	- EPG Download: Permette di includere o escludere il download automatico dell'EPG.(Yes = Abilitato)
+	- Picon Type: Permette di scegliere il tipo di Picon da scaricare, oppure di escluderne il download(Disabled = Disabilitato)
+	- Settings Type: Permette di scegliere il tipo di Settings da scaricare, oppure di escluderne il download(Disabled = Disabilitato)
+	- Enable Debug*: Permette di scegliere se scrivere il file di LOG oppure no.(Yes = Abilitato)
+	- Enable stayUP Autoupdate: Permette di scegliere se abilitare o meno l'auto aggiornamento del plugin stesso.(Yes = Abilitato)
+
+Esecuzione:
+	TASTO ROSSO: Visualizza credits
+	TASTO VERDE: Salva configurazione corrente
+	TASTO GIALLO*: Visualizza file di log
+	TASTO BLU: Esecuzione Manuale secondo Configurazione Selezionata a schermo.
+
+A chi serve stayUP? Principalmente Il Plugin serve a tutti gli utenti che utilizzano settings standard e che non vogliono perdere tempo nell'aggiornarli periodicamente, a mano.

@@ -1,0 +1,5326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tuxbox-enigma 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-18 23:40+0200\n"
+"PO-Revision-Date: 2009-05-06 21:55+0200\n"
+"Last-Translator: Timo Jarvenpaa <timojarvenpaa@hotmail.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+
+msgid ""
+"\n"
+"Advanced options and settings."
+msgstr ""
+"\n"
+"Laajennetut valinnat ja asetukset."
+
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Kun olet painanut OK-näppäintä, odota!"
+
+msgid ""
+"\n"
+"Backup your Dreambox settings."
+msgstr ""
+"\n"
+"Varmuuskopioi asetukset."
+
+msgid ""
+"\n"
+"Edit the upgrade source address."
+msgstr ""
+"\n"
+"Muokkaa päivityksen osoitetta."
+
+msgid ""
+"\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"\n"
+"Enigma2 käynnistyy uudelleen palautuksen jälkeen"
+
+msgid ""
+"\n"
+"Online update of your Dreambox software."
+msgstr ""
+"\n"
+"Päivitä ohjelmisto online-päivityksen kautta."
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"\n"
+"Jatka painamalla OK-näppäintä."
+
+msgid ""
+"\n"
+"Restore your Dreambox settings."
+msgstr ""
+"\n"
+"Palauta asetukset varmuuskopiosta."
+
+msgid ""
+"\n"
+"Restore your Dreambox with a new firmware."
+msgstr ""
+"\n"
+"Palauta ohjelmisto perustilaan."
+
+msgid ""
+"\n"
+"Restore your backups by date."
+msgstr ""
+"\n"
+"Palauta varmuuskopiot päivän mukaan."
+
+msgid ""
+"\n"
+"Scan for local packages and install them."
+msgstr ""
+"\n"
+"Etsi ja asenna IPKG-paketteja."
+
+msgid ""
+"\n"
+"Select your backup device.\n"
+"Current device: "
+msgstr ""
+"\n"
+"Valitse tallennuspaikka varmuuskopiolle.\n"
+"Nykyinen valinta: "
+
+msgid ""
+"\n"
+"View, install and remove available or installed packages."
+msgstr ""
+"\n"
+"Lisää ja poista ohjelmapaketteja."
+
+msgid " "
+msgstr " "
+
+msgid "#000000"
+msgstr ""
+
+msgid "#0064c7"
+msgstr ""
+
+msgid "#25062748"
+msgstr ""
+
+msgid "#389416"
+msgstr ""
+
+msgid "#80000000"
+msgstr ""
+
+msgid "#80ffffff"
+msgstr ""
+
+msgid "#bab329"
+msgstr ""
+
+msgid "#f23d21"
+msgstr ""
+
+msgid "#ffffff"
+msgstr ""
+
+msgid "#ffffffff"
+msgstr ""
+
+msgid "%H:%M"
+msgstr ""
+
+#, python-format
+msgid "%d jobs are running in the background!"
+msgstr "%d työtä on taustalla käynnissä!"
+
+#, python-format
+msgid "%d min"
+msgstr "%d min"
+
+#, python-format
+msgid "%d services found!"
+msgstr "%d kanavaa löydetty!"
+
+msgid "%d.%B %Y"
+msgstr "%d.%m.%Y"
+
+#, python-format
+msgid ""
+"%s\n"
+"(%s, %d MB free)"
+msgstr ""
+"%s\n"
+"(%s, %d MB vapaana)"
+
+#, python-format
+msgid "%s (%s)\n"
+msgstr ""
+
+msgid "(ZAP)"
+msgstr "(Pelkkä kanavanvaihto)"
+
+msgid "(empty)"
+msgstr "(tyhjä)"
+
+msgid "(show optional DVD audio menu)"
+msgstr "(näytä  DVD-äänen lisävalikko)"
+
+msgid "* Only available if more than one interface is active."
+msgstr "* Käytettävissä vain kun useampi kuin yksi sovitin on aktiivinen."
+
+msgid "* Only available when entering hidden SSID or network key"
+msgstr "* Käytettävissä vain kun syötetään piilotettu SSID tai verkkoavain."
+
+msgid ".NFI Download failed:"
+msgstr ".NFI lataus epäonnistui:"
+
+msgid ""
+".NFI file passed md5sum signature check. You can safely flash this image!"
+msgstr ""
+".NFI-tiedoston md5sum-allekirjoitus on kunnossa. Voit asentaa tämän "
+"päivityksen."
+
+msgid "/usr/share/enigma2 directory"
+msgstr "/usr/share/enigma2-hakemisto"
+
+msgid "/var directory"
+msgstr "”/var”-hakemisto"
+
+msgid "0"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "1.0"
+msgstr "1.0"
+
+msgid "1.1"
+msgstr "1.1"
+
+msgid "1.2"
+msgstr "1.2"
+
+msgid "12V output"
+msgstr "12V ulostulo"
+
+msgid "13 V"
+msgstr "13 V"
+
+msgid "16:10"
+msgstr ""
+
+msgid "16:10 Letterbox"
+msgstr "16:10 Letterbox"
+
+msgid "16:10 PanScan"
+msgstr "16:10 Pan&Scan"
+
+msgid "16:9"
+msgstr "16:9"
+
+msgid "16:9 Letterbox"
+msgstr "16:9 Letterbox"
+
+msgid "16:9 always"
+msgstr "16:9 automatiikka"
+
+msgid "18 V"
+msgstr "18 V"
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "30 minutes"
+msgstr "30 minuuttia"
+
+msgid "4"
+msgstr ""
+
+msgid "4:3"
+msgstr ""
+
+msgid "4:3 Letterbox"
+msgstr "4:3 Letterbox"
+
+msgid "4:3 PanScan"
+msgstr "4:3 Pan&Scan"
+
+msgid "5"
+msgstr ""
+
+msgid "5 minutes"
+msgstr "5 minuuttia"
+
+msgid "50 Hz"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "60 minutes"
+msgstr "60 minuuttia"
+
+msgid "7"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "9"
+msgstr ""
+
+msgid "<unknown>"
+msgstr "<tuntematon>"
+
+msgid "??"
+msgstr "??"
+
+msgid "A"
+msgstr "A"
+
+#, python-format
+msgid ""
+"A configuration file (%s) was modified since Installation.\n"
+"Do you want to keep your version?"
+msgstr ""
+"Asetustiedostoa (%s) on muokattu asennuksen jälkeen.\n"
+"Haluatko säilyttää oman versiosi?"
+
+msgid ""
+"A finished record timer wants to set your\n"
+"Dreambox to standby. Do that now?"
+msgstr ""
+"Juuri päättynyt ajastus haluaa sammuttaa\n"
+"Dreamboxin valmiustilaan. Sammutetaanko nyt?"
+
+msgid ""
+"A finished record timer wants to shut down\n"
+"your Dreambox. Shutdown now?"
+msgstr ""
+"Juuri päättynyt ajastus haluaa sammuttaa\n"
+"Dreamboxin virransäästötilaan. Sammutetaanko nyt?"
+
+msgid "A graphical EPG for all services of an specific bouquet"
+msgstr "Graafinen EPG kaikille suosikkilistan kanaville"
+
+#, python-format
+msgid ""
+"A record has been started:\n"
+"%s"
+msgstr ""
+"Tallennus on alkanut:\n"
+"%s"
+
+msgid ""
+"A recording is currently running.\n"
+"What do you want to do?"
+msgstr ""
+"Tallennus on parhaillaan käynnissä.\n"
+"Mitä haluat tehdä?"
+
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"configure the positioner."
+msgstr ""
+"Tallennus on parhaillaan käynnissä. Pysäytä tallennus\n"
+"ennen kuin yrität muokata kääntömoottorin asetuksia."
+
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"start the satfinder."
+msgstr ""
+"Tallennus on parhaillaan käynnissä. Pysäytä tallennus\n"
+"ennen kuin käynnistät satelliittietsimen."
+
+#, python-format
+msgid "A required tool (%s) was not found."
+msgstr "Tarvittavaa osaa (%s) ei löytynyt."
+
+msgid ""
+"A sleep timer wants to set your\n"
+"Dreambox to standby. Do that now?"
+msgstr ""
+"Uniajastimeen asetettu aika on kulunut umpeen.\n"
+"Siirrytäänkö valmiustilaan?"
+
+msgid ""
+"A sleep timer wants to shut down\n"
+"your Dreambox. Shutdown now?"
+msgstr ""
+"Uniajastimeen asetettu aika on kulunut umpeen.\n"
+"Sammutetaanko Dreambox virransäästötilaa?"
+
+msgid ""
+"A timer failed to record!\n"
+"Disable TV and try again?\n"
+msgstr ""
+"Ajastettu tallennus epäonnistui!\n"
+"Sallitko kanavanvaihdon, jotta tallennusta\n"
+"voidaan yrittää uudelleen?\n"
+
+msgid "A/V Settings"
+msgstr "Ääni- ja kuvalähdöt"
+
+msgid "AA"
+msgstr "AA"
+
+msgid "AB"
+msgstr "AB"
+
+msgid "AC3 default"
+msgstr "AC3-ääni ensisijaisena"
+
+msgid "AC3 downmix"
+msgstr "AC3 muunnos stereoksi"
+
+msgid "About"
+msgstr "Tietoja"
+
+msgid "About..."
+msgstr "Tietoja..."
+
+msgid "Action on long powerbutton press"
+msgstr "Sammutusnapin pitkä painallus"
+
+msgid "Action:"
+msgstr "Toiminto:"
+
+msgid "Activate Picture in Picture"
+msgstr "Avaa PiP-kuva"
+
+msgid "Activate network settings"
+msgstr "Ota verkkoasetukset käyttöön"
+
+msgid "Adapter settings"
+msgstr "Sovittimen asetukset"
+
+msgid "Add"
+msgstr "Lisää"
+
+msgid "Add Bookmark"
+msgstr "Kirjanmerkki"
+
+msgid "Add a mark"
+msgstr "Lisää merkki"
+
+msgid "Add a new title"
+msgstr "Lisää uusi tallenne"
+
+msgid "Add timer"
+msgstr "Lisää ajastus"
+
+msgid "Add title"
+msgstr "Lisää"
+
+msgid "Add to bouquet"
+msgstr "Lisää suosikkilistalle"
+
+msgid "Add to favourites"
+msgstr "Lisää suosikkilistalle"
+
+msgid ""
+"Adjust the color settings so that all the color shades are distinguishable, "
+"but appear as saturated as possible. If you are happy with the result, press "
+"OK to close the video fine-tuning, or use the number keys to select other "
+"test screens."
+msgstr ""
+"Säädä värikylläisyys siten, että kaikki sävyt erottuvat ja ovat "
+"mahdollisimman\n"
+"kylläisiä.\n"
+"\n"
+"Kun olet tyytyväinen tulokseen, sulje testikuva painamalla OK tai valitse "
+"numeronäppäimillä 1-6 joku muu testikuva."
+
+msgid "Advanced"
+msgstr "Laajennetut"
+
+msgid "Advanced Options"
+msgstr "Laajennetut valinnat"
+
+msgid "Advanced Video Setup"
+msgstr "Laajennetut video-asetukset"
+
+msgid "Advanced restore"
+msgstr "Laajennettu palautus"
+
+msgid "After event"
+msgstr "Ajastuksen jälkeen"
+
+msgid ""
+"After the start wizard is completed, you need to protect single services. "
+"Refer to your dreambox's manual on how to do that."
+msgstr ""
+"Kun alkuasennus on päättynyt, pitää sinun valita lapsilukolla suojattavat "
+"kanavat. Katso ohjekirjasta kuinka se tehdään."
+
+msgid "Album"
+msgstr "Albumi"
+
+msgid "All"
+msgstr "Kaikki"
+
+msgid "All Satellites"
+msgstr "Kaikki satelliitit"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Alternative radio mode"
+msgstr "TV-tyylinen radiokanavien selaus"
+
+msgid "Alternative services tuner priority"
+msgstr "Virittimien prioriteetti"
+
+msgid "An empty filename is illegal."
+msgstr "Tyhjä nimi ei ole sallittu"
+
+msgid "An unknown error occured!"
+msgstr "Tuntematon virhe!"
+
+msgid "Arabic"
+msgstr "Arabia"
+
+msgid ""
+"Are you sure you want to activate this network configuration?\n"
+"\n"
+msgstr ""
+"Haluatko aktivoida nämä verkkoasetukset?\n"
+"\n"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Oletko varma, että haluat poistaa seuraavan\n"
+"varmuuskopion:\n"
+
+msgid ""
+"Are you sure you want to restart your network interfaces?\n"
+"\n"
+msgstr ""
+"Haluatko käynnistää verkkosovittimet uudelleen?\n"
+"\n"
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Oletko varma, että haluat palauttaa seuraavan\n"
+"varmuuskopion:\n"
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Oletko varma, että haluat palauttaa Enigma2 varmuuskopion?\n"
+"Enigma2 käynnistyy uudelleen palautuksen jälkeen"
+
+msgid "Artist"
+msgstr "Esittäjä"
+
+msgid "Ask before shutdown:"
+msgstr "Kysy varmistus ennen sammutusta:"
+
+msgid "Ask user"
+msgstr "Kysy käyttäjältä"
+
+msgid "Aspect Ratio"
+msgstr "Kuvasuhde"
+
+msgid "Audio"
+msgstr "Ääni"
+
+msgid "Audio Options..."
+msgstr "Äänivalinnat"
+
+msgid "Author: "
+msgstr "Tekijä:"
+
+msgid "Authoring mode"
+msgstr "Toimintatapa"
+
+msgid "Auto"
+msgstr "Automaattinen"
+
+msgid "Auto chapter split every ? minutes (0=never)"
+msgstr "Kappalejako joka ? min välein (0=ei koskaan)"
+
+msgid "Auto scart switching"
+msgstr "Autom. SCARTin kytkentä"
+
+msgid "Automatic"
+msgstr "Automaattinen"
+
+msgid "Automatic Scan"
+msgstr "Automaattihaku"
+
+msgid "Available format variables"
+msgstr "Formaatti-muuttujat"
+
+msgid "B"
+msgstr "B"
+
+msgid "BA"
+msgstr "BA"
+
+msgid "BB"
+msgstr "BB"
+
+msgid "BER"
+msgstr ""
+
+msgid "BER:"
+msgstr "BER:"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Background"
+msgstr "Tausta"
+
+msgid "Backup"
+msgstr "Luo"
+
+msgid "Backup Location"
+msgstr "Mihin tallennetaan"
+
+msgid "Backup Mode"
+msgstr "Mitä tallennetaan"
+
+msgid "Backup done."
+msgstr "Varmuuskopiointi suoritettu."
+
+msgid "Backup failed."
+msgstr "Varmuuskopiointi epäonnistui."
+
+msgid "Backup is done. Please press OK to see the result."
+msgstr "Varmuuskopiointi suoritettu. Paina OK nähdäksesi tulokset."
+
+msgid "Backup running"
+msgstr "Varmuuskopiointi käynnissä"
+
+msgid "Backup running..."
+msgstr "Varmuuskopiointi käynnissä..."
+
+msgid "Backup system settings"
+msgstr "Varmuuskopioi asetukset"
+
+msgid "Band"
+msgstr "Taajuusalue"
+
+msgid "Bandwidth"
+msgstr "Kaistanleveys"
+
+msgid "Begin time"
+msgstr "Aloitusaika"
+
+msgid "Behavior of 'pause' when paused"
+msgstr "Pause-näppäimen toiminto"
+
+msgid "Behavior of 0 key in PiP-mode"
+msgstr "0-näppäimen toiminta PiP-tilassa"
+
+msgid "Behavior when a movie is started"
+msgstr "Toiminto toiston alussa"
+
+msgid "Behavior when a movie is stopped"
+msgstr "Toiminto kun toisto pysäytetään"
+
+msgid "Behavior when a movie reaches the end"
+msgstr "Toiminto kun tallenne loppuu"
+
+msgid "Bookmarks"
+msgstr "Kirjanmerkit"
+
+msgid "Brightness"
+msgstr "Kirkkaus"
+
+msgid "Burn DVD"
+msgstr "Polta DVD"
+
+msgid "Burn existing image to DVD"
+msgstr ""
+
+msgid "Burn to DVD..."
+msgstr "Polta DVD:lle..."
+
+msgid "Bus: "
+msgstr "Väylä: "
+
+msgid ""
+"By pressing the OK Button on your remote control, the info bar is being "
+"displayed."
+msgstr "Painamalla kaukosäätimen OK-näppäintä, näet tietopalkin."
+
+msgid "C"
+msgstr ""
+
+msgid "C-Band"
+msgstr "C-taajuusalue"
+
+msgid "CF Drive"
+msgstr "CompactFlash-kortti"
+
+msgid "CI assignment"
+msgstr ""
+
+msgid "CVBS"
+msgstr "Komposiitti (CVBS)"
+
+msgid "Cable"
+msgstr "Kaapeli (DVB-C)"
+
+msgid "Cache Thumbnails"
+msgstr "Tallenna esikatselukuvat välimuistiin"
+
+msgid "Call monitoring"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Cannot parse feed directory"
+msgstr "Lataushakemistoa ei voitu lukea"
+
+msgid "Capacity: "
+msgstr "Kapasiteetti:"
+
+msgid "Card"
+msgstr "Kortti"
+
+msgid "Catalan"
+msgstr "Katalaani"
+
+msgid "Change bouquets in quickzap"
+msgstr "Suosikkilistan vaihto listan lopussa"
+
+msgid "Change dir."
+msgstr "Muuta hak."
+
+msgid "Change pin code"
+msgstr "Vaihda tunnusluku"
+
+msgid "Change service pin"
+msgstr "Vaihda kanavan tunnusluku"
+
+msgid "Change service pins"
+msgstr "Vaihda kanavan tunnusluvut"
+
+msgid "Change setup pin"
+msgstr "Vaihda asetusten tunnusluku"
+
+msgid "Channel"
+msgstr "Kanava"
+
+msgid "Channel Selection"
+msgstr "Kanavien valinta"
+
+msgid "Channel not in services list"
+msgstr "Kanava ei ole kanavalistalla"
+
+msgid "Channel:"
+msgstr "Kanava:"
+
+msgid "Channellist menu"
+msgstr "Kanavalistan muokkaus"
+
+msgid "Chap."
+msgstr "Osa"
+
+msgid "Chapter"
+msgstr "Kappale"
+
+msgid "Chapter:"
+msgstr "Kappale:"
+
+msgid "Check"
+msgstr "Tarkista"
+
+msgid "Checking Filesystem..."
+msgstr "Tarkistetaan tiedostojärjestelmää"
+
+msgid "Choose Tuner"
+msgstr "Valitse viritin"
+
+msgid "Choose backup files"
+msgstr "Varmuuskopioitavat tiedostot"
+
+msgid "Choose backup location"
+msgstr "Varmuuskopion sijainti"
+
+msgid "Choose bouquet"
+msgstr "Valitse suosikkilista"
+
+msgid "Choose source"
+msgstr "Valitse lähde"
+
+msgid "Choose target folder"
+msgstr "Valitse kohdehakemisto"
+
+msgid "Choose upgrade source"
+msgstr "Valitse päivityslähde"
+
+msgid "Choose your Skin"
+msgstr "Valitse teema"
+
+msgid "Circular left"
+msgstr "Kiertopol. vasen"
+
+msgid "Circular right"
+msgstr "Kiertopol. oikea"
+
+msgid "Cleanup"
+msgstr "Poista vanhat"
+
+#  Ohjatun asennuksen (Startup Wizard) kutosruudun valintateksti
+#  Tekstin pitää ilmeisesti olla melko lyhyt, koska käyttäjän
+#  valittavaksi annetut vaihtoehdot lyhentävät tilaa toisesta
+#  päästä.
+msgid "Clear before scan"
+msgstr "Tyhjennä kanavalista"
+
+msgid "Clear log"
+msgstr "Tyhjennä loki"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Code rate high"
+msgstr "Koodinopeus (korkea)"
+
+msgid "Code rate low"
+msgstr "Koodinopeus (alhainen)"
+
+msgid "Coderate HP"
+msgstr "Koodinopeus (HP)"
+
+msgid "Coderate LP"
+msgstr "Koodinopeus (LP)"
+
+msgid "Collection name"
+msgstr "Kokoelman nimi"
+
+msgid "Collection settings"
+msgstr "Kokoelman asetukset"
+
+msgid "Color Format"
+msgstr "Videolähtö (TV-SCART)"
+
+msgid "Command execution..."
+msgstr "Komennon suoritus..."
+
+msgid "Command order"
+msgstr "Käskyjen järjestys"
+
+msgid "Committed DiSEqC command"
+msgstr "Committed DiSEqC-käsky"
+
+msgid "Common Interface"
+msgstr "CI-liitäntä/CAM"
+
+msgid "Common Interface Assignment"
+msgstr "CI-määritykset"
+
+msgid "CommonInterface"
+msgstr ""
+
+msgid "Communication"
+msgstr ""
+
+msgid "Compact Flash"
+msgstr "CompactFlash"
+
+msgid "Compact flash card"
+msgstr "CompactFlash-kortti"
+
+msgid "Complete"
+msgstr "Täysi"
+
+msgid "Complex (allows mixing audio tracks and aspects)"
+msgstr "Laajennettu (useita ääniraitoja ja kuvasuhteita)"
+
+msgid "Config"
+msgstr "Asetukset"
+
+msgid "Configuration Mode"
+msgstr "Toimintatila"
+
+msgid "Configuring"
+msgstr "Muokataan"
+
+msgid "Conflicting timer"
+msgstr "Ristiriita ajastusten välillä"
+
+msgid "Connected to"
+msgstr "Kytketty virittimestä"
+
+msgid "Connected to Fritz!Box!"
+msgstr ""
+
+msgid "Connecting to Fritz!Box..."
+msgstr ""
+
+#, python-format
+msgid ""
+"Connection to Fritz!Box\n"
+"failed! (%s)\n"
+"retrying..."
+msgstr ""
+
+msgid "Constellation"
+msgstr "Modulaatio"
+
+msgid "Content does not fit on DVD!"
+msgstr "Sisältö ei mahdu DVD:lle!"
+
+msgid "Continue in background"
+msgstr "Jatka taustalla"
+
+msgid "Continue playing"
+msgstr "Jatka toistoa"
+
+msgid "Contrast"
+msgstr "Kontrasti"
+
+msgid "Could not connect to Dreambox .NFI Image Feed Server:"
+msgstr "NFI-ohjelmistopäivityksien palvelimelle ei saatu yhteyttä:"
+
+msgid "Could not load Medium! No disc inserted?"
+msgstr "Levyä ei voitu ladata! Levy puuttuu?"
+
+#, python-format
+msgid "Couldn't record due to conflicting timer %s"
+msgstr "Ajastusristiriidan takia ei voitu tallentaa %s"
+
+msgid "Create DVD-ISO"
+msgstr "Luo DVD-ISO"
+
+msgid "Create movie folder failed"
+msgstr "Tallennehakemiston luonti epäonnistui"
+
+#, python-format
+msgid "Creating directory %s failed."
+msgstr "Hakemiston %s luominen epäonnistui."
+
+msgid "Creating partition failed"
+msgstr "Kiintolevyosion luonti epäonnistui"
+
+msgid "Croatian"
+msgstr "Kroatia"
+
+msgid "Current Transponder"
+msgstr "Nykyinen lähetin"
+
+msgid "Current settings:"
+msgstr "Nykyiset asetukset"
+
+msgid "Current version:"
+msgstr "Nykyinen versio:"
+
+msgid "Custom skip time for '1'/'3'-keys"
+msgstr "'1'/'3'-näppäimien hypyn pituus"
+
+msgid "Custom skip time for '4'/'6'-keys"
+msgstr "'4'/'6'-näppäimien hypyn pituus"
+
+msgid "Custom skip time for '7'/'9'-keys"
+msgstr "'7'/'9'-näppäimien hypyn pituus"
+
+msgid "Customize"
+msgstr "Toimintojen mukautus"
+
+msgid "Cut"
+msgstr "Leikkaa"
+
+#  Tallennevalikko
+msgid "Cutlist editor..."
+msgstr "Määritä leikkauskohdat..."
+
+msgid "Czech"
+msgstr "Tšekki"
+
+msgid "D"
+msgstr ""
+
+msgid "DHCP"
+msgstr ""
+
+msgid "DVB-S"
+msgstr "DVB-S"
+
+msgid "DVB-S2"
+msgstr "DVB-S2"
+
+msgid "DVD Player"
+msgstr "DVD-soitin"
+
+msgid "DVD media toolbox"
+msgstr "DVD-levyn työkalut"
+
+msgid "Danish"
+msgstr "Tanska"
+
+msgid "Date"
+msgstr "Päiväys"
+
+msgid "Deep Standby"
+msgstr "Virransäästötila"
+
+msgid "Default Settings"
+msgstr "Oletusasetukset"
+
+msgid "Default services lists"
+msgstr "Lataa oletuskanavalista"
+
+msgid "Default settings"
+msgstr "Lataa oletusarvot"
+
+msgid "Delay"
+msgstr "Viive"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Delete entry"
+msgstr "Poista valinta"
+
+msgid "Delete failed!"
+msgstr "Poisto epäonnistui!"
+
+#, python-format
+msgid ""
+"Delete no more configured satellite\n"
+"%s?"
+msgstr ""
+"Poistetaanko ei määritelty satelliitti\n"
+"%s?"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "Deselect"
+msgstr ""
+
+msgid "Destination directory"
+msgstr "Kohdehakemisto"
+
+msgid "Details"
+msgstr "Tiedot"
+
+msgid "Detected HDD:"
+msgstr "Asennettu kiintolevy:"
+
+msgid "Detected NIMs:"
+msgstr "Asennetut virittimet:"
+
+msgid "DiSEqC"
+msgstr "DiSEqC"
+
+msgid "DiSEqC A/B"
+msgstr "DiSEqC A/B"
+
+msgid "DiSEqC A/B/C/D"
+msgstr "DiSEqC A/B/C/D"
+
+msgid "DiSEqC mode"
+msgstr "DiSEqC-tila"
+
+msgid "DiSEqC repeats"
+msgstr "DiSEqC-toistoja"
+
+msgid "Direct playback of linked titles without menu"
+msgstr "Linkitettyjen tallenteiden toisto ilman valikkoa"
+
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr "Hakemistoa %s ei löydy."
+
+msgid "Disable"
+msgstr "Keskeytä"
+
+msgid "Disable Picture in Picture"
+msgstr "Sulje PiP-kuva"
+
+msgid "Disable Subtitles"
+msgstr "Poista tekstitys"
+
+msgid "Disable timer"
+msgstr "Poista käytöstä"
+
+msgid "Disabled"
+msgstr "Ei käytössä"
+
+#, python-format
+msgid ""
+"Disconnected from\n"
+"Fritz!Box! (%s)\n"
+"retrying..."
+msgstr ""
+
+msgid "Dish"
+msgstr "Antenni"
+
+msgid "Display 16:9 content as"
+msgstr "Näytä 16:9 sisältö"
+
+msgid "Display 4:3 content as"
+msgstr "Näytä 4:3 sisältö"
+
+msgid "Display >16:9 content as"
+msgstr "Näytä >16:9 sisältö"
+
+msgid "Display Setup"
+msgstr "Etupaneelin näyttö..."
+
+msgid "Display and Userinterface"
+msgstr "Näyttö ja käyttöliittymä"
+
+#, python-format
+msgid ""
+"Do you really want to REMOVE\n"
+"the plugin \"%s\"?"
+msgstr ""
+"Haluatko poistaa\n"
+"lisäosan \"%s\"?"
+
+msgid ""
+"Do you really want to check the filesystem?\n"
+"This could take lots of time!"
+msgstr ""
+"Haluatko tarkistaa tiedostojärjetelmän?\n"
+"Tarkistus saattaa kestää kauan!"
+
+#, python-format
+msgid "Do you really want to delete %s?"
+msgstr ""
+"Haluatko poistaa\n"
+"\"%s\"?"
+
+#, python-format
+msgid ""
+"Do you really want to download\n"
+"the plugin \"%s\"?"
+msgstr ""
+"Haluatko ladata\n"
+"lisäosan \"%s\"?"
+
+msgid ""
+"Do you really want to initialize the harddisk?\n"
+"All data on the disk will be lost!"
+msgstr ""
+"Haluatko alustaa kiintolevyn?\n"
+"Kaikki levyllä oleva tieto menetetään!"
+
+#, python-format
+msgid "Do you really want to remove directory %s from the disk?"
+msgstr "Haluatko poistaa levyltä hakemiston %s?"
+
+#, python-format
+msgid "Do you really want to remove your bookmark of %s?"
+msgstr "Haluatko poistaa kirjanmerkin %s?"
+
+msgid ""
+"Do you want to backup now?\n"
+"After pressing OK, please wait!"
+msgstr ""
+"Haluatko luoda varmuuskopion?\n"
+"Paina OK ja odota!"
+
+msgid "Do you want to burn this collection to DVD medium?"
+msgstr "Haluatko polttaa tämän kokoelman DVD:lle?"
+
+msgid "Do you want to continue installing or removing selected plugins?\n"
+msgstr ""
+
+msgid "Do you want to do a service scan?"
+msgstr "Haluatko tehdä kanavahaun?"
+
+msgid "Do you want to do another manual service scan?"
+msgstr "Haluatko tehdä uuden manuaalihaun?"
+
+#  Ohjatun asennuksen (Start Wizard) lapsilukkoruutu
+msgid "Do you want to enable the parental control feature on your dreambox?"
+msgstr ""
+"Dreamboxissa on lapsilukko-\n"
+"ominaisuus: halutut kanavat\n"
+"voidaan asettaa erikseen\n"
+"määriteltävän tunnusluvun\n"
+"taakse.\n"
+"\n"
+"Haluatko ottaa lapsilukon\n"
+"käyttöön?"
+
+msgid "Do you want to install default sat lists?"
+msgstr "Haluatko asentaa oletusarvoiset satelliittilistat?"
+
+msgid "Do you want to install the package:\n"
+msgstr "Haluatko asentaa IPKG-paketin:\n"
+
+msgid "Do you want to play DVD in drive?"
+msgstr "Haluatko toistaa asemassa olevan DVD:n?"
+
+msgid "Do you want to preview this DVD before burning?"
+msgstr "Haluatko esikatsella tämän DVD:n ennen polttoa?"
+
+msgid "Do you want to reboot your Dreambox?"
+msgstr "Haluatko käynnistää Dreamboxin uudelleen?"
+
+msgid "Do you want to remove the package:\n"
+msgstr "Haluatko poistaa ohjelmapaketin:\n"
+
+msgid "Do you want to restore your settings?"
+msgstr "Haluatko palauttaa asetukset?"
+
+msgid "Do you want to resume this playback?"
+msgstr ""
+"Jatketaanko kohdasta,\n"
+"johon katselu viimeksi jäi?"
+
+msgid "Do you want to update your Dreambox?"
+msgstr "Haluatko päivittää Dreamboxisi?"
+
+msgid ""
+"Do you want to update your Dreambox?\n"
+"After pressing OK, please wait!"
+msgstr ""
+"Haluatko päivittää Dreamboxin?\n"
+"Paina OK ja odota!"
+
+msgid "Do you want to upgrade the package:\n"
+msgstr "Haluatko päivittää ohjelmapaketin:\n"
+
+msgid "Do you want to view a tutorial?"
+msgstr "Haluatko katsoa opasohjelman?"
+
+msgid "Don't stop current event but disable coming events"
+msgstr "Älä pysäytä tallennusta, mutta estä tulevat ajastukset"
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr "Valmis - asennettu tai päivitetty %d lisäosaa"
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages with %d errors"
+msgstr "Valmis - asennettu tai päivitetty %d lisäosaa, %d virhettä"
+
+#, python-format
+msgid "Done - Installed, upgraded or removed %d packages with %d errors"
+msgstr "Valmis - asennettu, päivitetty tai poistettu %d lisäosaa, %d virhettä"
+
+msgid "Download"
+msgstr "Lataa"
+
+msgid "Download .NFI-Files for USB-Flasher"
+msgstr "Lataa .NFI-tiedostoja USB-päivitysohjelmalle"
+
+msgid "Download Plugins"
+msgstr "Lataa lisäosia"
+
+msgid "Download of USB flasher boot image failed: "
+msgstr "Päivitystiedoston lataaminen epäonnistui:"
+
+msgid "Downloadable new plugins"
+msgstr "Uusia ladattavia lisäosia"
+
+msgid "Downloadable plugins"
+msgstr "Ladattavia lisäosia"
+
+msgid "Downloading"
+msgstr "Ladataan"
+
+msgid "Downloading plugin information. Please wait..."
+msgstr "Ladataan tietoja lisäosista. Odota..."
+
+msgid "Dreambox format data DVD (HDTV compatible)"
+msgstr "DB-tiedostomuotoinen DVD (HDTV-yht.sopiva)"
+
+msgid "Dutch"
+msgstr "Hollanti"
+
+msgid "E"
+msgstr "E"
+
+msgid "EPG Selection"
+msgstr "Ohjelman valinta"
+
+#, python-format
+msgid "ERROR - failed to scan (%s)!"
+msgstr "VIRHE - haku epäonnistui (%s)!"
+
+msgid "East"
+msgstr "Itä"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Edit DNS"
+msgstr "Muuta DNS"
+
+msgid "Edit IPKG source URL..."
+msgstr "Muokkaa IPKG lähdeosoitetta..."
+
+msgid "Edit Title"
+msgstr "Editoi"
+
+msgid "Edit chapters of current title"
+msgstr "Muokkaa kappaleita"
+
+msgid "Edit services list"
+msgstr "Muokkaa kanavalistaa"
+
+msgid "Edit settings"
+msgstr "Muokkaa asetuksia"
+
+msgid "Edit the Nameserver configuration of your Dreambox.\n"
+msgstr ""
+"Muokkaan nimipalvelimen asetuksia.\n"
+"\n"
+
+msgid "Edit the network configuration of your Dreambox.\n"
+msgstr ""
+"Muokkaa lähiverkon asetuksia.\n"
+"\n"
+
+msgid "Edit title"
+msgstr "Editoi"
+
+msgid "Electronic Program Guide"
+msgstr "Ohjelmaopas"
+
+msgid "Enable"
+msgstr "Ota käyttöön"
+
+msgid "Enable 5V for active antenna"
+msgstr "Syötä 5 voltin käyttöjännite aktiiviantennille"
+
+msgid "Enable multiple bouquets"
+msgstr "Salli useiden suosikkilistojen luonti ja käyttö"
+
+msgid "Enable parental control"
+msgstr "Ota lapsilukko käyttöön"
+
+msgid "Enable timer"
+msgstr "Ajastin päälle"
+
+msgid "Enabled"
+msgstr "Käytössä"
+
+msgid "Encryption"
+msgstr "Suojaus"
+
+msgid "Encryption Key"
+msgstr "Suojausavain"
+
+msgid "Encryption Keytype"
+msgstr "Salausavaimen tyyppi"
+
+msgid "Encryption Type"
+msgstr "Suojausjärjestelmä"
+
+msgid "End time"
+msgstr "Lopetusaika"
+
+msgid "EndTime"
+msgstr "Lopetusaika"
+
+msgid "English"
+msgstr "Englanti"
+
+msgid ""
+"Enigma2 Skinselector v0.5 BETA\n"
+"\n"
+"If you experience any problems please contact\n"
+"stephan@reichholf.net\n"
+"\n"
+"© 2006 - Stephan Reichholf"
+msgstr ""
+
+#.   TRANSLATORS: Note that "Enter" in the two strings below should *not*
+#.       be interpreted as "Give speed as input". The intended meaning is
+#.       instead "Initial speed when starting winding", i.e. the speed at
+#.       which "winding mode" is entered when first pressing "rewind" or
+#.       "fast forward". 
+msgid "Enter Fast Forward at speed"
+msgstr "Aloita kelaus eteenpäin nopeudella"
+
+msgid "Enter Rewind at speed"
+msgstr "Aloita kelaus taaksepäin nopeudella"
+
+msgid "Enter WLAN network name/SSID:"
+msgstr "Syötä WLAN-verkon nimi/SSID:"
+
+msgid "Enter WLAN passphrase/key:"
+msgstr ""
+
+msgid "Enter main menu..."
+msgstr "Mene päävalikkoon..."
+
+msgid "Enter the service pin"
+msgstr "Syötä kanavan tunnusluku"
+
+msgid "Error"
+msgstr "Virhe"
+
+msgid "Error executing plugin"
+msgstr "Virhe plugin-lisäosan suorittamisessa"
+
+#, python-format
+msgid ""
+"Error: %s\n"
+"Retry?"
+msgstr ""
+"Virhe: %s\n"
+"Yritä uudelleen?"
+
+msgid "Eventview"
+msgstr "Ohjelmatiedot"
+
+msgid "Everything is fine"
+msgstr "Kaikki on kunnossa"
+
+msgid "Execution Progress:"
+msgstr "Tehtävän edistyminen:"
+
+msgid "Execution finished!!"
+msgstr "Tehtävä suoritettu!"
+
+msgid "Exif"
+msgstr ""
+
+msgid "Exit"
+msgstr "Poistu"
+
+msgid "Exit editor"
+msgstr "Poistu editorista"
+
+#  Tämä on imagewizard.xml:stä löytyvä valintateksti
+msgid "Exit the wizard"
+msgstr "Poistu ohjatusta asennustoiminnosta"
+
+#  Ohjatun asennustoiminnon kakkosruudun valintateksti
+msgid "Exit wizard"
+msgstr "Poistu (määritä kaikki asetukset käsin)"
+
+msgid "Expert"
+msgstr "Laaja"
+
+msgid "Extended Networksetup Plugin..."
+msgstr "Laajennetut verkkoasetukset"
+
+msgid "Extended Setup..."
+msgstr "Laajat asetukset..."
+
+msgid "Extensions"
+msgstr "Laajennukset"
+
+msgid "FEC"
+msgstr "FEC"
+
+msgid "Factory reset"
+msgstr "Palauta tehdasasetukset"
+
+msgid "Failed"
+msgstr "Epäonnistui"
+
+msgid "Fast"
+msgstr "Nopea"
+
+msgid "Fast DiSEqC"
+msgstr "Nopea DiSEqC"
+
+msgid "Fast Forward speeds"
+msgstr "Kelausnopeudet eteenpäin"
+
+msgid "Fast epoch"
+msgstr "Nopea päivällä"
+
+msgid "Favourites"
+msgstr "Suosikit"
+
+msgid "Filesystem Check..."
+msgstr "Tiedostojärjestelmän tarkistus..."
+
+msgid "Filesystem contains uncorrectable errors"
+msgstr "Tiedostojärjestelmässä on virheitä, joita ei voida korjata"
+
+msgid "Finetune"
+msgstr "Hienosäät."
+
+msgid "Finished"
+msgstr "Päättyi"
+
+msgid "Finished configuring your network"
+msgstr "Verkon määritys suoritettu"
+
+msgid "Finished restarting your network"
+msgstr "Verkko käynnistyi uudelleen"
+
+msgid "Finnish"
+msgstr "Suomi"
+
+msgid ""
+"First we need to download the latest boot environment for the USB flasher."
+msgstr ""
+"Aluksi lataamme viimeisimmän käynnistysympäristön USB-päivitysohjelmalle."
+
+msgid "Flash"
+msgstr ""
+
+msgid "Flashing failed"
+msgstr "Päivitys epäonnistui"
+
+msgid "Format"
+msgstr "Alusta"
+
+msgid "Frame repeat count during non-smooth winding"
+msgstr "Ruudun toistomäärä hyppivällä kelauksella"
+
+msgid "Frame size in full view"
+msgstr "Kehyksen koko kokoruudussa"
+
+msgid "French"
+msgstr "Ranska"
+
+msgid "Frequency"
+msgstr "Taajuus"
+
+msgid "Frequency bands"
+msgstr "Taajuusalueet"
+
+msgid "Frequency scan step size(khz)"
+msgstr "Taajuushaun askel (khz)"
+
+msgid "Frequency steps"
+msgstr "Taajuusaskel"
+
+msgid "Fri"
+msgstr "pe"
+
+msgid "Friday"
+msgstr "Perjantai"
+
+msgid "Frisian"
+msgstr "Friisi"
+
+msgid "Fritz!Box FON IP address"
+msgstr ""
+
+#, python-format
+msgid "Frontprocessor version: %d"
+msgstr "Etupaneelin suorittimen versio: %d"
+
+msgid "Fsck failed"
+msgstr "Tarkistus epäonnistui"
+
+msgid "Function not yet implemented"
+msgstr "Toimintoa ei ole vielä toteutettu"
+
+msgid ""
+"GUI needs a restart to apply a new skin\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Teema vaihtuu vasta kun Dreamboxin\n"
+"käyttöliittymä on käynnistetty uudelleen.\n"
+"Haluatko käynnistää käyttöliittymän\n"
+"uudelleen nyt?"
+
+msgid "Gateway"
+msgstr "Yhdyskäytävä"
+
+msgid "General AC3 Delay"
+msgstr "AC3-viive (ms)"
+
+msgid "General AC3 delay"
+msgstr "AC3-viive (ms)"
+
+msgid "General PCM Delay"
+msgstr "PCM-viive (ms)"
+
+msgid "General PCM delay"
+msgstr "PCM-viive (ms)"
+
+msgid "Genre"
+msgstr "Laji"
+
+msgid "German"
+msgstr "Saksa"
+
+msgid "Getting plugin information. Please wait..."
+msgstr "Haetaan tietoja lisäosista. Odota..."
+
+msgid "Goto 0"
+msgstr "Goto 0"
+
+msgid "Goto position"
+msgstr "Mene sijaintiin"
+
+msgid "Graphical Multi EPG"
+msgstr "Graafinen Kanavaopas"
+
+msgid "Greek"
+msgstr "Kreikka"
+
+msgid "Guard Interval"
+msgstr "Suojaväli"
+
+msgid "Guard interval mode"
+msgstr "Suojaväli-tila"
+
+msgid "Harddisk"
+msgstr "Kiintolevy..."
+
+msgid "Harddisk setup"
+msgstr "Kiintolevyn asetukset"
+
+msgid "Harddisk standby after"
+msgstr "Kiintolevyn automaattinen sammutus"
+
+msgid "Hidden network SSID"
+msgstr ""
+
+msgid "Hierarchy Information"
+msgstr "Hierarkia-tietoja"
+
+msgid "Hierarchy mode"
+msgstr "Hierarkia-tila"
+
+msgid "High bitrate support"
+msgstr "Suurten bittimäärien tuki"
+
+msgid "Horizontal"
+msgstr "Horisontaali"
+
+msgid "How many minutes do you want to record?"
+msgstr "Kuinka monta minuuttia haluat tallentaa?"
+
+msgid "Hungarian"
+msgstr "Unkari"
+
+msgid "IP Address"
+msgstr "IP-osoite"
+
+msgid "ISO file is too large for this filesystem!"
+msgstr "ISO-tiedosto on liian suuri tälle tiedostojärjestelmälle!"
+
+msgid "ISO path"
+msgstr "ISO-polku"
+
+msgid "Icelandic"
+msgstr "Islanti"
+
+msgid "If you can see this page, please press OK."
+msgstr "Jos näet tämän sivun, paina OK."
+
+msgid ""
+"If you see this, something is wrong with\n"
+"your scart connection. Press OK to return."
+msgstr ""
+"SCART-liitännässä on ilmennyt ongelma.\n"
+"Paina OK palataksesi takaisin."
+
+msgid ""
+"If your TV has a brightness or contrast enhancement, disable it. If there is "
+"something called \"dynamic\", set it to standard. Adjust the backlight level "
+"to a value suiting your taste. Turn down contrast on your TV as much as "
+"possible.\n"
+"Then turn the brightness setting as low as possible, but make sure that the "
+"two lowermost shades of gray stay distinguishable.\n"
+"Do not care about the bright shades now. They will be set up in the next "
+"step.\n"
+"If you are happy with the result, press OK."
+msgstr ""
+"Jos televisiossasi on kirkkauden tai kontrastin automaattisäätö, kytke se "
+"pois päältä. Jos kuva-asetuksissa on säätöjä nimeltä \"dynamic\" kytke ne "
+"normaaliarvoon. Säädä huoneen valaistus sopivaksi. Säädä television "
+"kontrasti alimpaan arvoon.\n"
+"\n"
+"Säädä television valoisuus niin alas kuin mahdollista ilman, että testikuvan "
+"kaksi tumminta sävyä (1 ja 2) muuttuu yhtä tummiksi.\n"
+"\n"
+"Älä välitä kirkkaista sävyistä, ne säädetään seuraavassa vaiheessa.\n"
+"\n"
+"Kun olet tyytyväinen tulokseen, paina OK."
+
+msgid "Image flash utility"
+msgstr "Päivityksen asennusohjelma"
+
+msgid "Image-Upgrade"
+msgstr "Päivitys"
+
+msgid "In Progress"
+msgstr "Käynnissä"
+
+msgid ""
+"In order to record a timer, the TV was switched to the recording service!\n"
+msgstr ""
+"Pakotettu kanavanvaihto. Ajastettu tallennus\n"
+"käynnistyi juuri ja tarvitsi tätä viritintä.\n"
+
+msgid "Increased voltage"
+msgstr "Korotettu LNB-jännite"
+
+msgid "Index"
+msgstr "Indeksi"
+
+msgid "InfoBar"
+msgstr "Tietopalkki"
+
+msgid "Infobar timeout"
+msgstr "Tietopalkin näyttöaika"
+
+msgid "Information"
+msgstr "Tietoja"
+
+msgid "Init"
+msgstr "Palauta CA-moduulin alkuasetukset"
+
+msgid "Initialization..."
+msgstr "Alustus..."
+
+msgid "Initialize"
+msgstr "Alusta"
+
+msgid "Initializing Harddisk..."
+msgstr "Alustetaan kiintolevyä..."
+
+#  Monivalintaikkunoiden otsikkopalkin teksti
+msgid "Input"
+msgstr "Valitse"
+
+msgid "Install"
+msgstr "Asenna"
+
+msgid "Install a new image with a USB stick"
+msgstr "Päivitä uusi ohjelmisto USB-tikulta"
+
+msgid "Install a new image with your web browser"
+msgstr "Päivitä uusi ohjelmisto WWW-selaimella"
+
+msgid "Install local IPKG"
+msgstr "Asenna IPKG-paketteja"
+
+msgid "Install or remove finished."
+msgstr "Asenna tai poista valmiit."
+
+msgid "Install settings, skins, software..."
+msgstr "Asenna asetuksia, teemoja, ohjelmistoja..."
+
+msgid "Install software updates..."
+msgstr "Asenna ohjelmistopäivityksiä..."
+
+msgid ""
+"Install/\n"
+"Remove"
+msgstr ""
+"Asenna/\n"
+"Poista"
+
+msgid "Installation finished."
+msgstr "Asennus suoritettu."
+
+msgid "Installing"
+msgstr "Asennetaan"
+
+msgid "Installing Software..."
+msgstr "Asennetaan ohjelmistoa..."
+
+msgid "Installing default sat lists... Please wait..."
+msgstr "Asennetaan oletussatelliittilistat.. Odota..."
+
+msgid "Installing defaults... Please wait..."
+msgstr "Asennetaan oletukset...Odota..."
+
+msgid "Installing package content... Please wait..."
+msgstr "Asennetaan paketin sisältö...Odota..."
+
+msgid "Instant Record..."
+msgstr "Välitön tallennus..."
+
+msgid "Integrated Ethernet"
+msgstr "Sisäinen verkkokortti"
+
+msgid "Integrated Wireless"
+msgstr "Sisäänrakennettu WLAN"
+
+msgid "Intermediate"
+msgstr "Keskitaso"
+
+msgid "Internal Flash"
+msgstr "Sisäinen flash-muisti"
+
+msgid "Invalid Location"
+msgstr "Virheellinen sijainti"
+
+#, python-format
+msgid "Invalid directory selected: %s"
+msgstr "Virheellinen hakemisto valittu: %s"
+
+msgid "Inversion"
+msgstr "Inversio"
+
+msgid "Invert display"
+msgstr "Käänteinen tekstin ja taustan väritys"
+
+msgid "Ipkg"
+msgstr ""
+
+msgid "Italian"
+msgstr "Italia"
+
+msgid "Job View"
+msgstr "Työnäkymä"
+
+#. TRANSLATORS: (aspect ratio policy: display as fullscreen, even if this breaks the aspect)
+msgid "Just Scale"
+msgstr "Aina kokoruutu"
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Keyboard Map"
+msgstr "Näppäinasettelu"
+
+msgid "Keyboard Setup"
+msgstr "Näppäimistön asetukset"
+
+msgid "Keymap"
+msgstr "Näppäinasettelu"
+
+msgid "LAN Adapter"
+msgstr "Verkkosovitin"
+
+msgid "LNB"
+msgstr "LNB"
+
+msgid "LOF"
+msgstr "LOF"
+
+msgid "LOF/H"
+msgstr "LOF/H"
+
+msgid "LOF/L"
+msgstr "LOF/L"
+
+msgid "Language selection"
+msgstr "Kielivalinta"
+
+msgid "Language..."
+msgstr "Kielivalinta..."
+
+msgid "Last speed"
+msgstr "Aikaisempi nopeus"
+
+msgid "Latitude"
+msgstr "Leveysaste"
+
+msgid "Latvian"
+msgstr "Latvia"
+
+msgid "Leave DVD Player?"
+msgstr "Poistutaanko DVD-soittimesta?"
+
+msgid "Left"
+msgstr "Vasen"
+
+msgid "Lets you view/edit files in your Dreambox"
+msgstr "Katsele/muokkaa Dreamboxin tiedostoja"
+
+#. TRANSLATORS: (aspect ratio policy: black bars on top/bottom) in doubt, keep english term.
+msgid "Letterbox"
+msgstr ""
+
+msgid "Limit east"
+msgstr "Raja itään"
+
+msgid "Limit west"
+msgstr "Raja länteen"
+
+msgid "Limited character set for recording filenames"
+msgstr "Rajoitettu merkkiluettelo tallenteille"
+
+msgid "Limits off"
+msgstr "Rajat pois"
+
+msgid "Limits on"
+msgstr "Rajat päälle"
+
+msgid "Link:"
+msgstr "Tila:"
+
+msgid "Linked titles with a DVD menu"
+msgstr "Linkitetyt tallenteet ja DVD-valikko"
+
+msgid "List of Storage Devices"
+msgstr "Luettelo tallennusvälineistä"
+
+msgid "Lithuanian"
+msgstr "Liettua"
+
+msgid "Load"
+msgstr "Lataa"
+
+msgid "Load Length of Movies in Movielist"
+msgstr "Lataa tallenteiden pituus tallennelistassa "
+
+msgid "Local Network"
+msgstr "Lähiverkko"
+
+msgid "Location"
+msgstr "Hakemisto"
+
+msgid "Lock:"
+msgstr "Lukit."
+
+msgid "Log results to harddisk"
+msgstr "Luo lokitiedosto kiintolevylle"
+
+msgid "Long Keypress"
+msgstr "Pitkä painallus"
+
+msgid "Longitude"
+msgstr "Pituusaste"
+
+msgid "MMC Card"
+msgstr "MMC-kortti"
+
+msgid "MORE"
+msgstr "LISÄÄ"
+
+msgid "Main menu"
+msgstr "Päävalikko"
+
+msgid "Mainmenu"
+msgstr "Päävalikko"
+
+msgid "Make this mark an 'in' point"
+msgstr "Tee tästä merkistä aloituspiste"
+
+msgid "Make this mark an 'out' point"
+msgstr "Tee tästä merkistä lopetuspiste"
+
+msgid "Make this mark just a mark"
+msgstr "Tee tästä tavallinen merkki"
+
+msgid "Manage your receiver's software"
+msgstr "Hallitse vastaanottimen ohjelmistoa"
+
+msgid "Manual Scan"
+msgstr "Manuaalihaku"
+
+msgid "Manual transponder"
+msgstr "Manuaalinen lähetin"
+
+msgid "Manufacturer"
+msgstr "Valmistaja"
+
+msgid "Margin after record"
+msgstr "Lisäaika tallenteen loppuun (minuuttia)"
+
+msgid "Margin before record (minutes)"
+msgstr "Lisäaika tallenteen alkuun (minuuttia)"
+
+msgid "Media player"
+msgstr "Mediatoistin"
+
+msgid "MediaPlayer"
+msgstr "Mediatoistin"
+
+msgid "Medium is not a writeable DVD!"
+msgstr "Levy ei ole kirjoitettava DVD!"
+
+msgid "Medium is not empty!"
+msgstr "Levy ei ole tyhjä!"
+
+msgid "Menu"
+msgstr "Valikko"
+
+msgid "Message"
+msgstr "Viesti"
+
+msgid "Message..."
+msgstr "Viesti..."
+
+msgid "Mkfs failed"
+msgstr "Tiedostojärjestelmän luonti epäonnistui"
+
+msgid "Mode"
+msgstr "Tila"
+
+msgid "Model: "
+msgstr "Malli: "
+
+msgid "Modulation"
+msgstr "Modulaatio"
+
+msgid "Modulator"
+msgstr "Modulaattori"
+
+msgid "Mon"
+msgstr "ma"
+
+msgid "Mon-Fri"
+msgstr "ma-pe"
+
+msgid "Monday"
+msgstr "Maanantai"
+
+msgid "Mount failed"
+msgstr "Liittäminen epäonnistui"
+
+msgid "Move Picture in Picture"
+msgstr "Siirrä PIP-kuvaa"
+
+msgid "Move east"
+msgstr "Liikuta itään"
+
+msgid "Move west"
+msgstr "Liikuta länteen"
+
+msgid "Movielist menu"
+msgstr "Tallenneluettelon valikko"
+
+msgid "Multi EPG"
+msgstr "Kanavaopas"
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "Multiple service support"
+msgstr "Usean kanavan tuki"
+
+msgid "Multisat"
+msgstr "Usea satelliitti"
+
+msgid "Mute"
+msgstr "Mykistä"
+
+msgid "N/A"
+msgstr "Ei saatavilla"
+
+msgid "NEXT"
+msgstr "SEURAAVA"
+
+msgid "NFI image flashing completed. Press Yellow to Reboot!"
+msgstr ""
+"NFI-päivityksen asennus on suoritettu. Käynnistä uudelleen keltaisella "
+"näppäimellä!"
+
+msgid "NOW"
+msgstr "NYT"
+
+msgid "NTSC"
+msgstr "NTSC"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Nameserver"
+msgstr "Nimipalvelin"
+
+#, python-format
+msgid "Nameserver %d"
+msgstr "Nimipalvelin %d"
+
+msgid "Nameserver Setup"
+msgstr "Nimipalvelimen asetukset"
+
+msgid "Nameserver settings"
+msgstr "Nimipalvelimen asetukset"
+
+msgid "Netmask"
+msgstr "Verkkomaski"
+
+msgid "Network"
+msgstr "Verkko"
+
+msgid "Network Configuration..."
+msgstr "Verkon asetukset"
+
+msgid "Network Mount"
+msgstr "Verkkojaon nimi"
+
+msgid "Network SSID"
+msgstr "Verkon SSID"
+
+msgid "Network Setup"
+msgstr "Lähiverkon asetukset"
+
+msgid "Network scan"
+msgstr "Verkkohaku"
+
+msgid "Network setup"
+msgstr "Lähiverkon asetukset"
+
+msgid "Network test"
+msgstr "Lähiverkon testi"
+
+msgid "Network test..."
+msgstr "Lähiverkon testi..."
+
+msgid "Network..."
+msgstr "Lähiverkko..."
+
+msgid "Network:"
+msgstr "Sovitin:"
+
+msgid "NetworkWizard"
+msgstr "Verkkovelho"
+
+msgid "New"
+msgstr "Uusi"
+
+msgid "New pin"
+msgstr "Uusi tunnusluku"
+
+msgid "New version:"
+msgstr "Uusi versio:"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "No (supported) DVDROM found!"
+msgstr "DVDROM-asemaa ei löytynyt!"
+
+msgid "No 50 Hz, sorry. :("
+msgstr "Ei 50Hz tilaa. :("
+
+msgid "No HDD found or HDD not initialized!"
+msgstr ""
+"Kiintolevyä ei löydy tai sitä ei\n"
+"ole alustettu."
+
+msgid "No Networks found"
+msgstr "Verkkoja ei löytynyt"
+
+msgid "No backup needed"
+msgstr "Varmuuskopiota ei tarvita"
+
+msgid ""
+"No data on transponder!\n"
+"(Timeout reading PAT)"
+msgstr ""
+"Lähettimessä ei dataa!\n"
+"(Aikaraja ylittyi luettaessa PAT)"
+
+msgid "No description available."
+msgstr "Kuvausta ei ole saatavilla."
+
+msgid "No details for this image file"
+msgstr "Ei tietoja tästä päivityksestä"
+
+msgid "No displayable files on this medium found!"
+msgstr ""
+
+msgid "No event info found, recording indefinitely."
+msgstr ""
+"Lähetyksessä ei ole tietoa ohjelman loppumisajasta.\n"
+"Ohjelma tallennetaan jatkuvana tallennuksena."
+
+msgid "No free tuner!"
+msgstr "Kaikki virittimet ovat jo käytössä!"
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+"Ohjelmistoja ei ole vielä päivitetty.\n"
+"Voit tarkistaa verkkoasetukset ja yrittää uudelleen."
+
+msgid "No picture on TV? Press EXIT and retry."
+msgstr "Ei kuvaa TV:ssä? Paina EXIT ja yritä uudelleen."
+
+msgid "No positioner capable frontend found."
+msgstr ""
+"Dreamboxissasi ei ole satelliittiviritintä,\n"
+"joka hallitsisi kääntömoottorin ohjauksen."
+
+msgid "No satellite frontend found!!"
+msgstr "Dreamboxissasi ei ole satelliittiviritintä."
+
+msgid "No tags are set on these movies."
+msgstr ""
+
+msgid "No tuner is configured for use with a diseqc positioner!"
+msgstr ""
+"Virittimiä ei ole asetettu käyttämään\n"
+"DiSEqC-ohjausta."
+
+msgid ""
+"No tuner is enabled!\n"
+"Please setup your tuner settings before you start a service scan."
+msgstr ""
+"Viritintä ei ole määritetty!\n"
+"Määritä virittimen asetukset ennen kanavahaun aloittamista."
+
+msgid "No useable USB stick found"
+msgstr "Käyttökelpoista USB-muistitikkua ei löytynyt"
+
+msgid ""
+"No valid service PIN found!\n"
+"Do you like to change the service PIN now?\n"
+"When you say 'No' here the service protection stay disabled!"
+msgstr ""
+"Kanavan lapsilukon tunnuslukua ei löydy!\n"
+"Haluatko määrittää kanavan tunnusluvun?\n"
+"Jos vastaat 'Ei', kanavaa ei suojata tunnusluvulla."
+
+msgid ""
+"No valid setup PIN found!\n"
+"Do you like to change the setup PIN now?\n"
+"When you say 'No' here the setup protection stay disabled!"
+msgstr ""
+"Asetuksien tunnuslukua ei löydy!\n"
+"Haluatko määrittää asetuksien tunnusluvun?\n"
+"Jos vastaat 'Ei', asetuksia ei suojata tunnusluvulla."
+
+msgid ""
+"No working local network adapter found.\n"
+"Please verify that you have attached a network cable and your network is "
+"configured correctly."
+msgstr ""
+"Toimivaa verkkokorttia ei löydy.\n"
+"Tarkista, että olet kytkennyt verkkokaapelin ja lähiverkon asetukset ovat "
+"oikein."
+
+msgid ""
+"No working wireless network adapter found.\n"
+"Please verify that you have attached a compatible WLAN device and your "
+"network is configured correctly."
+msgstr ""
+"Toimivaa langatonta yhteyttä ei löydy.\n"
+"Tarkista, että olet kytkenyt yhteensopivan WLAN-laitteen ja verkko on "
+"määritelty oikein."
+
+msgid ""
+"No working wireless network interface found.\n"
+" Please verify that you have attached a compatible WLAN device or enable "
+"your local network interface."
+msgstr ""
+"Toimivaa langatonta yhteyttä ei löydy.\n"
+"Tarkista, että olet kytkenyt yhteensopivan WLAN-laitteen tai kytke "
+"lähiverkko päälle."
+
+msgid "No, but restart from begin"
+msgstr "Ei, aloita alusta"
+
+msgid "No, do nothing."
+msgstr "Ei, älä tee mitään."
+
+msgid "No, just start my dreambox"
+msgstr "Ei, käynnistä vain Dreambox"
+
+#  Ohjatun asennuksen (Startup Wizard) kutosruudun valintateksti
+msgid "No, scan later manually"
+msgstr "Ei, kanavat haetaan myöhemmin manuaalisesti"
+
+msgid "None"
+msgstr "Ei mitään"
+
+#. TRANSLATORS: (aspect ratio policy: display as fullscreen, with stretching the left/right)
+msgid "Nonlinear"
+msgstr "Epälineaarinen"
+
+msgid "North"
+msgstr "Pohjoinen"
+
+msgid "Norwegian"
+msgstr "Norja"
+
+#, python-format
+msgid ""
+"Not enough diskspace. Please free up some diskspace and try again. (%d MB "
+"required, %d MB available)"
+msgstr ""
+"Liian vähän levytilaa. Vapauta levytilaa ja yritä uudelleen. (%d Mt "
+"tarvitaan, %d Mt vapaana)"
+
+msgid ""
+"Nothing to scan!\n"
+"Please setup your tuner settings before you start a service scan."
+msgstr ""
+"Ei ole mitään haettavaa!\n"
+"Määritä virittimen asetukset ennen kanavahakua."
+
+msgid "Now Playing"
+msgstr "Toistetaan"
+
+msgid ""
+"Now, use the contrast setting to turn up the brightness of the background as "
+"much as possible, but make sure that you can still see the difference "
+"between the two brightest levels of shades.If you have done that, press OK."
+msgstr ""
+"Säädä kontrastisäädöllä tausta mahdollisimman valkoiseksi.\n"
+"\n"
+"Varmista, että näet yhä kahden kirkkaimman sävyn (1 ja 2) eron.\n"
+"\n"
+"Kun olet tyytyväinen tulokseen, paina OK."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OK, guide me through the upgrade process"
+msgstr "OK, opasta minua päivityksessä"
+
+msgid "OSD Settings"
+msgstr "Kuvaruutunäytön asetukset"
+
+msgid "OSD visibility"
+msgstr "OSD:n läpinäkyvyys"
+
+msgid "Off"
+msgstr "Pois"
+
+msgid "On"
+msgstr "Päällä"
+
+msgid "One"
+msgstr "Yksi"
+
+msgid "Online-Upgrade"
+msgstr "Online-päivitys"
+
+msgid "Only Free scan"
+msgstr "Hae vain salaamattomat"
+
+msgid "Orbital Position"
+msgstr "Sijainti"
+
+msgid "PAL"
+msgstr "PAL"
+
+msgid "PIDs"
+msgstr "PIDit"
+
+msgid "Package details for: "
+msgstr "Ohjelmapaketin tiedot:"
+
+msgid "Package list update"
+msgstr "Ohjelmapakettilistan päivitys"
+
+msgid "Packet management"
+msgstr "Ohjelmapakettien hallinta"
+
+msgid "Packet manager"
+msgstr "Ohjelmapakettien hallinta"
+
+msgid "Page"
+msgstr "Sivu"
+
+#. TRANSLATORS: (aspect ratio policy: cropped content on left/right) in doubt, keep english term
+msgid "Pan&Scan"
+msgstr ""
+
+msgid "Parent Directory"
+msgstr "Päähakemisto"
+
+msgid "Parental control"
+msgstr "Lapsilukko"
+
+msgid "Parental control services Editor"
+msgstr "Lapsilukon kanavaeditori"
+
+msgid "Parental control setup"
+msgstr "Lapsilukon asetukset"
+
+msgid "Parental control type"
+msgstr "Lapsilukon tyyppi"
+
+msgid "Pause movie at end"
+msgstr "Pysähdy tallenteen loppuun"
+
+msgid "PiPSetup"
+msgstr "PiP-kuvan asetukset"
+
+msgid "PicturePlayer"
+msgstr "Kuvien katselu"
+
+#. TRANSLATORS: (aspect ratio policy: black bars on left/right) in doubt, keep english term.
+msgid "Pillarbox"
+msgstr ""
+
+msgid "Pilot"
+msgstr ""
+
+msgid "Pin code needed"
+msgstr "Tarvitaan tunnusluku"
+
+msgid "Play"
+msgstr "Jatka toistoa"
+
+msgid "Play Audio-CD..."
+msgstr "Toista ääni-CD..."
+
+msgid "Play DVD"
+msgstr "Toista DVD"
+
+msgid "Play Music..."
+msgstr "Soita musiikkia..."
+
+msgid "Play recorded movies..."
+msgstr "Toista tallenteet..."
+
+msgid "Please Reboot"
+msgstr "Käynnistä uudelleen"
+
+msgid "Please Select Medium to be Scanned"
+msgstr "Valitse lähde josta haetaan"
+
+msgid "Please change recording endtime"
+msgstr "Aseta tallennuksen päättymisaika"
+
+msgid "Please check your network settings!"
+msgstr "Tarkista verkkoasetukset!"
+
+msgid "Please choose .NFI image file from feed server to download"
+msgstr "Valitse päivityspalvelimelta NFI-päivitys latausta varten"
+
+msgid "Please choose an extension..."
+msgstr "Valitse laajennus..."
+
+msgid "Please choose he package..."
+msgstr "Valitse ohjelmapaketti..."
+
+msgid "Please choose the default services lists you want to install."
+msgstr "Valitse oletuskanavalistat jotka haluat asentaa ja paina OK."
+
+msgid ""
+"Please disconnect all USB devices from your Dreambox and (re-)attach the "
+"target USB stick (minimum size is 64 MB) now!"
+msgstr ""
+
+msgid "Please do not change any values unless you know what you are doing!"
+msgstr "Älä muuta arvoja, ellet tiedä mitä teet!"
+
+msgid "Please enter a name for the new bouquet"
+msgstr "Anna uuden suosikkilistan nimi"
+
+msgid "Please enter a name for the new marker"
+msgstr "Uusi väliotsikko"
+
+msgid "Please enter a new filename"
+msgstr "Syötä uusi nimi"
+
+msgid "Please enter filename (empty = use current date)"
+msgstr "Syötä tiedoston nimi (tyhjä = nykyinen päiväys)"
+
+msgid "Please enter name of the new directory"
+msgstr "Syötä uuden hakemiston nimi"
+
+msgid "Please enter the correct pin code"
+msgstr "Syötä oikea tunnusluku"
+
+msgid "Please enter the old pin code"
+msgstr "Syötä vanha tunnusluku"
+
+msgid "Please follow the instructions on the TV"
+msgstr "Seuraa ruudulla näkyviä ohjeita"
+
+msgid ""
+"Please note that the previously selected media could not be accessed and "
+"therefore the default directory is being used instead."
+msgstr ""
+"Huomaa, että oletushakemisto on käytössä, koska aikaisemmin valittua levyä "
+"ei voitu ladata."
+
+msgid "Please press OK to continue."
+msgstr "Jatka painamalla OK."
+
+msgid "Please press OK!"
+msgstr "Paina OK."
+
+msgid "Please select .NFI flash image file from medium"
+msgstr "Valitse NFI-päivitystiedosto"
+
+msgid "Please select a playlist to delete..."
+msgstr "Valitse poistettava soittolista..."
+
+msgid "Please select a playlist..."
+msgstr "Valitse soittolista..."
+
+msgid "Please select a subservice to record..."
+msgstr "Valitse tallennettava alipalvelu..."
+
+msgid "Please select a subservice..."
+msgstr "Valitse alipalvelu..."
+
+msgid "Please select medium to use as backup location"
+msgstr "Valitse tallennuspaikka varmuuskopiolle"
+
+msgid "Please select tag to filter..."
+msgstr "Valitse suodatettava merkki..."
+
+msgid "Please select target directory or medium"
+msgstr "Valitse kohdehakemisto tai levy"
+
+msgid "Please select the movie path..."
+msgstr "Valitse tallennehakemisto..."
+
+#  Ohjatun asennuksen (Startup Wizard) nelosruudun ohjeteksti
+msgid "Please set up tuner B"
+msgstr "Määritä virittimen B asetukset:"
+
+msgid "Please set up tuner C"
+msgstr "Määritä virittimen C asetukset:"
+
+msgid "Please set up tuner D"
+msgstr "Määritä virittimen D asetukset:"
+
+msgid ""
+"Please use direction keys to move the PiP window.\n"
+"Press Bouquet +/- to resize the window.\n"
+"Press OK to go back to the TV mode or EXIT to cancel the moving."
+msgstr ""
+"Siirrä PiP-kuvaa nuolinapeilla.\n"
+"Muuta ikkunan kokoa Bouquet +/- napeilla.\n"
+"Palaa TV-tilaan OK-näppäimellä tai hylkää siirto EXIT-näppäimellä."
+
+msgid ""
+"Please use the UP and DOWN keys to select your language. Afterwards press "
+"the OK button."
+msgstr "Valitse kieli ylös/alas näppäimillä ja paina OK-näppäintä."
+
+msgid "Please wait for activation of your network configuration..."
+msgstr "Odota, verkon määritykset aktivoidaan..."
+
+msgid "Please wait while scanning is in progress..."
+msgstr "Odota, haku on käynnissä..."
+
+msgid "Please wait while we configure your network..."
+msgstr "Odota, verkkoa määritetään..."
+
+msgid "Please wait while your network is restarting..."
+msgstr "Odota, verkko käynnistetään uudelleen..."
+
+msgid "Please wait..."
+msgstr "Odota..."
+
+msgid "Please wait... Loading list..."
+msgstr "Odota... Luetteloa ladataan..."
+
+msgid "Plugin browser"
+msgstr "Asennetut Plugin-lisäosat"
+
+msgid "Plugin manager"
+msgstr "Lisäosien hallinta"
+
+msgid "Plugins"
+msgstr "Plugin-lisäosat"
+
+msgid "Polarity"
+msgstr "Polarisaatio"
+
+msgid "Polarization"
+msgstr "Polarisaatio"
+
+msgid "Polish"
+msgstr "Puola"
+
+msgid "Port A"
+msgstr "Portti A"
+
+msgid "Port B"
+msgstr "Portti B"
+
+msgid "Port C"
+msgstr "Portti C"
+
+msgid "Port D"
+msgstr "Portti D"
+
+msgid "Portuguese"
+msgstr "Portugali"
+
+msgid "Positioner"
+msgstr "Kääntömoottori"
+
+msgid "Positioner fine movement"
+msgstr "Kääntömoottorin hienosäätö"
+
+msgid "Positioner movement"
+msgstr "Kääntömoottorin liikutus"
+
+msgid "Positioner setup"
+msgstr "Kääntömoottorin asetukset"
+
+msgid "Positioner storage"
+msgstr "Kääntömoottorin muisti"
+
+msgid "Power threshold in mA"
+msgstr "Tunnistusvirta mA"
+
+msgid "Predefined transponder"
+msgstr "Ennalta määritelty lähetin"
+
+msgid "Preparing... Please wait"
+msgstr "Valmistellaan... Odota hetki!"
+
+msgid "Press OK on your remote control to continue."
+msgstr "Jatka painamalla OK-näppäintä."
+
+msgid "Press OK to activate the settings."
+msgstr "Ota käyttöön painamalla OK."
+
+msgid "Press OK to edit the settings."
+msgstr "Muokkaa painamalla OK."
+
+#, python-format
+msgid "Press OK to get further details for %s"
+msgstr "Katso %s lisätietoja OK-näppäimellä"
+
+msgid "Press OK to scan"
+msgstr "Aloita haku painamalla OK"
+
+msgid "Press OK to start the scan"
+msgstr "Aloita haku painamalla OK"
+
+msgid "Prev"
+msgstr "Edellinen"
+
+msgid "Preview menu"
+msgstr "Esikatsele valikkoa"
+
+msgid "Primary DNS"
+msgstr "Ensisijainen DNS"
+
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgid "Properties of current title"
+msgstr "Omaisuudet"
+
+msgid "Protect services"
+msgstr "Suojaa kanavat"
+
+msgid "Protect setup"
+msgstr "Suojaa asetukset"
+
+msgid "Provider"
+msgstr "Toimittaja"
+
+msgid "Provider to scan"
+msgstr "Hae toimittajalta"
+
+msgid "Providers"
+msgstr "Toimittajat"
+
+msgid "Python frontend for /tmp/mmi.socket"
+msgstr ""
+
+msgid "Quick"
+msgstr "Nopea"
+
+msgid "Quickzap"
+msgstr "Pikavaihto"
+
+msgid "RC Menu"
+msgstr "Kauko-ohjaimen asetukset"
+
+msgid "RF output"
+msgstr "RF-ulostulo"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "RSS Feed URI"
+msgstr "RSS-palvelun osoite"
+
+msgid "Radio"
+msgstr ""
+
+msgid "Ram Disk"
+msgstr "RAM-levy"
+
+msgid "Random"
+msgstr "Satunnainen"
+
+msgid "Really close without saving settings?"
+msgstr "Haluatko poistua tallentamatta asetuksia?"
+
+msgid "Really delete done timers?"
+msgstr "Poistetaanko tallennetut ajastukset?"
+
+msgid "Really exit the subservices quickzap?"
+msgstr "Poistu alipalveluiden pikavaihdosta?"
+
+msgid "Really reboot now?"
+msgstr "Haluatko silti käynnistää uudelleen?"
+
+msgid "Really restart now?"
+msgstr "Haluatko silti käynnistää uudelleen?"
+
+msgid "Really shutdown now?"
+msgstr "Haluatko silti sammuttaa?"
+
+msgid "Reboot"
+msgstr "Käynnistä uudelleen"
+
+msgid "Reception Settings"
+msgstr "Virittimen asetukset"
+
+msgid "Record"
+msgstr "Tallenna"
+
+#, python-format
+msgid "Record time limited due to conflicting timer %s"
+msgstr "Ajastusaika rajoitettu, ristiriita ajastukseen %s"
+
+msgid "Recorded files..."
+msgstr "Tallenteet..."
+
+msgid "Recording"
+msgstr "Tallenne"
+
+msgid "Recording(s) are in progress or coming up in few seconds!"
+msgstr "Tallennuksia on käynnissä tai käynnistymässä!"
+
+msgid "Recordings"
+msgstr "Tallenteet"
+
+msgid "Recordings always have priority"
+msgstr "Tallennukset saavat keskeyttää suoran katselun"
+
+msgid "Reenter new pin"
+msgstr "Syötä uusi tunnusluku toistamiseen"
+
+msgid "Refresh Rate"
+msgstr "Virkistystaajuus"
+
+msgid "Refresh rate selection."
+msgstr "Virkistystaajuuden valinta."
+
+msgid "Reload"
+msgstr "Päivitä"
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "Remove Bookmark"
+msgstr "Poista kirjanmerkki"
+
+msgid "Remove Plugins"
+msgstr "Poista lisäosia"
+
+msgid "Remove a mark"
+msgstr "Poista merkki"
+
+msgid "Remove currently selected title"
+msgstr "Poista valittu otsikko"
+
+msgid "Remove finished."
+msgstr "Poista suoritetut."
+
+msgid "Remove plugins"
+msgstr "Poista lisäosia"
+
+msgid "Remove the broken .NFI file?"
+msgstr "Poista vioittunut .NFI-tiedosto"
+
+msgid "Remove the incomplete .NFI file?"
+msgstr "Poista keskeneräinen .NFI-tiedosto"
+
+msgid "Remove timer"
+msgstr "Poista ajastus"
+
+msgid "Remove title"
+msgstr "Poista"
+
+msgid "Removing"
+msgstr "Poistetaan"
+
+#, python-format
+msgid "Removing directory %s failed. (Maybe not empty.)"
+msgstr "Hakemiston %s poisto epäonnistui. (Ei ehkä ole tyhjä.)"
+
+msgid "Rename"
+msgstr "Muuta nimi"
+
+msgid "Repeat"
+msgstr "Toista"
+
+msgid "Repeat Type"
+msgstr "Ajastus toistetaan"
+
+msgid "Repeating event currently recording... What do you want to do?"
+msgstr "Toistuvaa ajastusta tallennetaan... Mitä haluat tehdä?"
+
+msgid "Repeats"
+msgstr "Toistokerrat"
+
+msgid "Reset"
+msgstr "Käynnistä CA-moduuli uudelleen"
+
+msgid "Reset and renumerate title names"
+msgstr ""
+
+msgid "Resolution"
+msgstr "Tarkkuus"
+
+msgid "Restart"
+msgstr "Käynnistä uudelleen"
+
+msgid "Restart GUI"
+msgstr "Käynnistä E2 uudelleen"
+
+msgid "Restart GUI now?"
+msgstr "Käynnistetäänkö Enigma2 uudelleen?"
+
+msgid "Restart network"
+msgstr "Käynnistä uudelleen"
+
+msgid "Restart test"
+msgstr "Käynnistä testi uudelleen"
+
+msgid "Restart your network connection and interfaces.\n"
+msgstr ""
+"Käynnistä verkkokortti ja yhteys uudelleen.\n"
+"\n"
+
+msgid "Restore"
+msgstr "Palauta"
+
+msgid "Restore backups..."
+msgstr "Palauta varmuuskopio"
+
+msgid "Restore running"
+msgstr ""
+
+msgid "Restore running..."
+msgstr ""
+
+msgid "Restore system settings"
+msgstr "Palauta asetukset"
+
+msgid ""
+"Restoring the settings is done. Please press OK to activate the restored "
+"settings now."
+msgstr ""
+"Asetusten palautus on suoritettu. Paina OK ottaaksesi palautetut asetukset "
+"käyttöön."
+
+msgid "Resume from last position"
+msgstr "Jatka viimeksi katsotusta kohdasta"
+
+#. TRANSLATORS: The string "Resuming playback" flashes for a moment
+#. TRANSLATORS: at the start of a movie, when the user has selected
+#. TRANSLATORS: "Resume from last position" as start behavior.
+#. TRANSLATORS: The purpose is to notify the user that the movie starts
+#. TRANSLATORS: in the middle somewhere and not from the beginning.
+#. TRANSLATORS: (Some translators seem to have interpreted it as a
+#. TRANSLATORS: question or a choice, but it is a statement.)
+msgid "Resuming playback"
+msgstr "Toisto jatkuu viimeksi katsotusta kohdasta"
+
+msgid "Return to file browser"
+msgstr "Palaa tiedostojen hallintaan"
+
+msgid "Return to movie list"
+msgstr "Avaa tallenneluettelo"
+
+msgid "Return to previous service"
+msgstr "Palaa TV-kanavalle"
+
+msgid "Rewind speeds"
+msgstr "Kelausnopeudet taaksepäin"
+
+msgid "Right"
+msgstr "Oikea"
+
+msgid "Rolloff"
+msgstr ""
+
+msgid "Rotor turning speed"
+msgstr "Moottorin kääntönopeus"
+
+msgid "Running"
+msgstr "Käytössä"
+
+msgid "Russian"
+msgstr "Venäjä"
+
+msgid "S-Video"
+msgstr "S-video (Y/C)"
+
+msgid "SNR"
+msgstr "SNR"
+
+msgid "SNR:"
+msgstr "SNR:"
+
+msgid "Sat"
+msgstr "la"
+
+msgid "Sat / Dish Setup"
+msgstr "Antenniasetukset"
+
+msgid "Satellite"
+msgstr "Satelliitti"
+
+msgid "Satellite Equipment Setup"
+msgstr "Satelliittilaitteiden asetukset"
+
+msgid "Satellites"
+msgstr "Satelliitit"
+
+msgid "Satfinder"
+msgstr "Satelliittietsin"
+
+msgid "Sats"
+msgstr ""
+
+msgid "Satteliteequipment"
+msgstr "Satelliittilaite"
+
+msgid "Saturday"
+msgstr "Lauantai"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Save Playlist"
+msgstr "Tallenna soittolista"
+
+msgid "Scaling Mode"
+msgstr "Skaalaustila"
+
+msgid "Scan "
+msgstr "Hae "
+
+msgid "Scan Files..."
+msgstr "Hae tiedostoja..."
+
+msgid "Scan QAM128"
+msgstr "Hae QAM128"
+
+msgid "Scan QAM16"
+msgstr "Hae QAM16"
+
+msgid "Scan QAM256"
+msgstr "Hae QAM256"
+
+msgid "Scan QAM32"
+msgstr "Hae QAM32"
+
+msgid "Scan QAM64"
+msgstr "Hae QAM64"
+
+msgid "Scan SR6875"
+msgstr "Hae SR6875"
+
+msgid "Scan SR6900"
+msgstr "Hae SR6900"
+
+msgid "Scan Wireless Networks"
+msgstr "Hae langattomia verkkoja"
+
+msgid "Scan additional SR"
+msgstr ""
+
+msgid "Scan band EU HYPER"
+msgstr ""
+
+msgid "Scan band EU MID"
+msgstr ""
+
+msgid "Scan band EU SUPER"
+msgstr ""
+
+msgid "Scan band EU UHF IV"
+msgstr ""
+
+msgid "Scan band EU UHF V"
+msgstr ""
+
+msgid "Scan band EU VHF I"
+msgstr ""
+
+msgid "Scan band EU VHF III"
+msgstr ""
+
+msgid "Scan band US HIGH"
+msgstr ""
+
+msgid "Scan band US HYPER"
+msgstr ""
+
+msgid "Scan band US LOW"
+msgstr ""
+
+msgid "Scan band US MID"
+msgstr ""
+
+msgid "Scan band US SUPER"
+msgstr ""
+
+msgid ""
+"Scan your network for wireless Access Points and connect to them using your "
+"WLAN USB Stick\n"
+msgstr "Hae WLAN-tukiasemia ja kytkeydy niihin USB WLAN-tikun avulla\n"
+
+msgid ""
+"Scans default lamedbs sorted by satellite with a connected dish positioner"
+msgstr ""
+"Hakee oletuskanavalistan satelliittijärjestyksessä käyttäen kytkettyä "
+"antennimoottoria"
+
+msgid "Search east"
+msgstr "Etsintä itään"
+
+msgid "Search west"
+msgstr "Etsintä länteen"
+
+msgid "Searching for new installed or removed packages. Please wait..."
+msgstr "Etsitään asennettuja tai poistettuja ohjelmapaketteja. Odota..."
+
+msgid "Secondary DNS"
+msgstr "Toissijainen DNS"
+
+msgid "Seek"
+msgstr "Etsi"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "Select HDD"
+msgstr "Valitse kiintolevy"
+
+msgid "Select IPKG source to edit..."
+msgstr "Valitse muokattava IPKG-lähde..."
+
+msgid "Select Location"
+msgstr "Hakemiston valinta"
+
+msgid "Select Network Adapter"
+msgstr "Valitse verkkosovitin"
+
+msgid "Select a movie"
+msgstr "Tallennetut ohjelmat"
+
+msgid "Select audio mode"
+msgstr "Valitse äänimuoto"
+
+msgid "Select audio track"
+msgstr "Valitse ääniraita"
+
+msgid "Select channel to record from"
+msgstr "Valitse tallennettava kanava"
+
+msgid "Select files for backup. Currently selected:\n"
+msgstr "Valitse kopioitavat tiedostot. Nykyinen valinta:\n"
+
+msgid "Select files/folders to backup..."
+msgstr "Valitse kopioitavat tiedostot/kansiot..."
+
+msgid "Select image"
+msgstr "Valitse päivitys"
+
+msgid "Select provider to add..."
+msgstr ""
+
+msgid "Select refresh rate"
+msgstr "Valitse virkistystaajuus"
+
+msgid "Select service to add..."
+msgstr ""
+
+msgid "Select video input"
+msgstr "Valitse video-sisäänmeno"
+
+msgid "Select video input with up/down buttons"
+msgstr "Valitse video-sisäänmeno ylös/alas-näppäimillä"
+
+msgid "Select video mode"
+msgstr "Valitse video-tila"
+
+msgid "Selected source image"
+msgstr "Valittu päivitys"
+
+msgid "Send DiSEqC"
+msgstr "Lähetä DiSEqC"
+
+msgid "Send DiSEqC only on satellite change"
+msgstr "Lähetä DiSEqC vain satelliitin vaihdossa"
+
+msgid "Seperate titles with a main menu"
+msgstr "Erilliset tallenteet ja päävalikko"
+
+msgid "Sequence repeat"
+msgstr "Jakson toisto"
+
+msgid "Service"
+msgstr "Kanava"
+
+msgid "Service Scan"
+msgstr "Kanavien haku"
+
+msgid "Service Searching"
+msgstr "Kanavien haku"
+
+msgid "Service has been added to the favourites."
+msgstr "Kanava on lisätty suosikkeihin."
+
+msgid "Service has been added to the selected bouquet."
+msgstr "Kanava on lisätty valitulle suosikkilistalle."
+
+msgid ""
+"Service invalid!\n"
+"(Timeout reading PMT)"
+msgstr ""
+"Valittua kanavaa ei löydy.\n"
+"(Aikaraja ylittyi Program Map\n"
+"Tablea luettaessa.)"
+
+msgid ""
+"Service not found!\n"
+"(SID not found in PAT)"
+msgstr ""
+"Valittua kanavaa ei löydy.\n"
+"(Kanavan Service ID:tä ei löydy\n"
+"Program Association Tablesta.)"
+
+msgid "Service scan"
+msgstr "Kanavahaku"
+
+msgid ""
+"Service unavailable!\n"
+"Check tuner configuration!"
+msgstr ""
+"Ei kanavaa,\n"
+"tarkista virittimen asetukset"
+
+msgid "Serviceinfo"
+msgstr "Kanavatiedot"
+
+msgid "Services"
+msgstr "Kanavat"
+
+msgid "Set Voltage and 22KHz"
+msgstr "Aseta jännite ja 22KHz"
+
+msgid "Set as default Interface"
+msgstr "Aseta oletukseksi"
+
+msgid "Set interface as default Interface"
+msgstr "Määritä sovitin oletussovittimeksi"
+
+msgid "Set limits"
+msgstr "Aseta rajat"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Setup"
+msgstr "Asetukset"
+
+msgid "Setup Mode"
+msgstr "Mukautusvalintojen laajuus"
+
+msgid "Show Info"
+msgstr "Näytä tiedot"
+
+msgid "Show WLAN Status"
+msgstr "Näytä WLAN:in tila"
+
+msgid "Show blinking clock in display during recording"
+msgstr "Näytä vilkkuva kello tallennusten aikana"
+
+msgid "Show infobar on channel change"
+msgstr "Näytä tietopalkki kanavaa vaihdettaessa"
+
+msgid "Show infobar on event change"
+msgstr "Näytä tietopalkki ohjelman vaihtuessa"
+
+msgid "Show infobar on skip forward/backward"
+msgstr "Näytä tietopalkki kelauksien/hyppyjen aikana"
+
+msgid "Show positioner movement"
+msgstr "Näytä kuvake kääntömoottorin liikkuessa"
+
+msgid "Show services beginning with"
+msgstr "Näytä kanavat jotka alkavat"
+
+msgid "Show the radio player..."
+msgstr "Näytä radiosoitin..."
+
+msgid "Show the tv player..."
+msgstr "Näytä tv..."
+
+msgid "Shows the state of your wireless LAN connection.\n"
+msgstr "Näyttää WLAN-yhteyden tilan.\n"
+
+msgid "Shutdown Dreambox after"
+msgstr "Sammuta Dreambox jälkeenpäin"
+
+msgid "Similar"
+msgstr "Samanlaiset"
+
+msgid "Similar broadcasts:"
+msgstr "Samanlaiset lähetykset:"
+
+msgid "Simple"
+msgstr "Suppea"
+
+msgid "Simple titleset (compatibility for legacy players)"
+msgstr "Suppea (yhteensopiva vanhojen soittimien kanssa)"
+
+msgid "Single"
+msgstr "Yksi"
+
+msgid "Single EPG"
+msgstr "Ohjelmaopas"
+
+msgid "Single satellite"
+msgstr "Yksi satelliitti"
+
+msgid "Single transponder"
+msgstr "Yksi lähetin"
+
+msgid "Singlestep (GOP)"
+msgstr "Kuva-kuvalta (GOP)"
+
+msgid "Skin..."
+msgstr "Teema..."
+
+msgid "Skins"
+msgstr "Teema"
+
+msgid "Sleep Timer"
+msgstr "Uniajastin"
+
+msgid "Sleep timer action:"
+msgstr "Uniajastintoiminta:"
+
+msgid "Slideshow Interval (sec.)"
+msgstr "Kuvien näyttöaika (sekuntia)"
+
+#, python-format
+msgid "Slot %d"
+msgstr "Portti %d"
+
+msgid "Slow"
+msgstr "Hidas"
+
+msgid "Slow Motion speeds"
+msgstr "Hidastusnopeudet"
+
+msgid "Software"
+msgstr "Ohjelmisto"
+
+msgid "Software manager"
+msgstr "Ohjelmistojen hallinta"
+
+msgid "Software manager..."
+msgstr "Ohjelmistojen hallinta"
+
+msgid "Software restore"
+msgstr "Ohjelmiston palautus"
+
+msgid "Software update"
+msgstr "Ohjelmiston päivitys"
+
+msgid "Some plugins are not available:\n"
+msgstr "Seuraavat lisäosat eivät ole saatavilla:\n"
+
+msgid "Somewhere else"
+msgstr "Jossakin muualla"
+
+msgid "Sorry MediaScanner is not installed!"
+msgstr "Mediascanneria ei ole asennettu!"
+
+msgid "Sorry no backups found!"
+msgstr "Varmuuskopioita ei löytynyt!"
+
+msgid ""
+"Sorry your Backup destination does not exist\n"
+"\n"
+"Please choose an other one."
+msgstr ""
+"Varmuuskopioinnin kohdetta ei löytynyt\n"
+"\n"
+"Valitse uusi kohde."
+
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Varmuuskopion kohdehakemisto on kirjoitussuojattu.\n"
+"Valitse toinen hakemisto."
+
+msgid "Sorry, no Details available!"
+msgstr "Lisätietoja ei ole saatavilla!"
+
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Varmuuskopion kohdehakemisto on kirjoitussuojattu.\n"
+"\n"
+"Valitse toinen hakemisto."
+
+#. TRANSLATORS: This must fit into the header button in the EPG-List
+msgid "Sort A-Z"
+msgstr "Aakkosjärj."
+
+#. TRANSLATORS: This must fit into the header button in the EPG-List
+msgid "Sort Time"
+msgstr "Aikajärj."
+
+msgid "Sound"
+msgstr "Ääni"
+
+msgid "Soundcarrier"
+msgstr "Äänikantoaallon taajuus"
+
+msgid "South"
+msgstr "Etelä"
+
+msgid "Spanish"
+msgstr "Espanja"
+
+msgid "Standby"
+msgstr "Valmiustila"
+
+msgid "Standby / Restart"
+msgstr "Sammutusvalikko"
+
+msgid "Start from the beginning"
+msgstr "Aloita alusta"
+
+#  Suoratallennusikkuna.
+msgid "Start recording?"
+msgstr "Aloitetaanko tallennus tältä kanavalta?"
+
+msgid "Start test"
+msgstr "Aloita testi"
+
+msgid "StartTime"
+msgstr "Aloitusaika"
+
+msgid "Starting on"
+msgstr "Alkaen"
+
+msgid "Step east"
+msgstr "Askel itään"
+
+msgid "Step west"
+msgstr "Askel länteen"
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Stop"
+msgstr "Pysäytä"
+
+msgid "Stop Timeshift?"
+msgstr "Lopetetaanko ajansiirtotallennus?"
+
+msgid "Stop current event and disable coming events"
+msgstr "Pysäytä tallennus ja estä tulevat ajastukset"
+
+msgid "Stop current event but not coming events"
+msgstr "Pysäytä tallennus, mutta älä estä tulevia ajastuksia"
+
+msgid "Stop playing this movie?"
+msgstr "Lopetetaanko tallenteen toistaminen?"
+
+msgid "Stop test"
+msgstr "Lopeta testi"
+
+msgid "Stop testing plane after # failed transponders"
+msgstr ""
+
+msgid "Stop testing plane after # successful transponders"
+msgstr ""
+
+msgid "Store position"
+msgstr "Tallenna sijainti"
+
+msgid "Stored position"
+msgstr "Sijainnin muistipaikka"
+
+msgid "Subservice list..."
+msgstr "Alipalvelulista..."
+
+msgid "Subservices"
+msgstr "Alipalvelut"
+
+msgid "Subtitle selection"
+msgstr "Tekstitysvalinta"
+
+msgid "Subtitles"
+msgstr "Tekstitys"
+
+msgid "Sun"
+msgstr "su"
+
+msgid "Sunday"
+msgstr "Sunnuntai"
+
+msgid "Swap Services"
+msgstr "Vaihda PiP- ja pääkuva keskenään"
+
+msgid "Swedish"
+msgstr "Ruotsi"
+
+msgid "Switch to next subservice"
+msgstr "Vaihda seuraavaan alipalveluun"
+
+msgid "Switch to previous subservice"
+msgstr "Vaihda edelliseen alipalveluun"
+
+msgid "Symbol Rate"
+msgstr "Symbolinopeus"
+
+msgid "Symbolrate"
+msgstr "Symbolinopeus"
+
+msgid "System"
+msgstr "Järjestelmä"
+
+#. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
+msgid "TRANSLATOR_INFO"
+msgstr ""
+
+msgid "TS file is too large for ISO9660 level 1!"
+msgstr "TS-tiedosto on liian suuri ISO9660 1-tasolle!"
+
+msgid "TV System"
+msgstr "TV-järjestelmä"
+
+msgid "Table of content for collection"
+msgstr "Kokoelman hakemisto"
+
+msgid "Tag 1"
+msgstr ""
+
+msgid "Tag 2"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Terrestrial"
+msgstr "Antennivastaanotto (DVB-T)"
+
+msgid "Terrestrial provider"
+msgstr "Lähetysasema"
+
+msgid "Test DiSEqC settings"
+msgstr "Testaa DiSEqC-asetukset"
+
+msgid "Test Type"
+msgstr "Testin tyyppi"
+
+msgid "Test mode"
+msgstr "Virityskuvan lähetys"
+
+msgid "Test the network configuration of your Dreambox.\n"
+msgstr ""
+"Testaa lähiverkon toiminta.\n"
+"\n"
+
+msgid "Test-Messagebox?"
+msgstr "Testiviesti-ikkuna?"
+
+#  Ohjatun alkuasennuksen loppuviesti. Teksti on tässä tarkasti
+#  sovitettu tilaansa ja käyttäjäkokemusta on yritetty parantaa
+#  antamalla ohje siitä, mitä seuraavaksi tapahtuu. Älä muuta
+#  tekstin rivitystä tai sisältöä testaamatta ensin tarkasti,
+#  että teksti rivittyy tv-ruudulla oikein.
+msgid ""
+"Thank you for using the wizard. Your box is now ready to use.\n"
+"Please press OK to start using your Dreambox."
+msgstr ""
+"Laitteesi on nyt käyttökunnossa.\n"
+"Ohjattu asennus päättyy tähän.\n"
+"\n"
+"Kun painat OK, pääset suosikki-\n"
+"listalle. Käytä kanavien valin-\n"
+"taan ja järjestelyyn MENU- ja\n"
+"värinäppäimien takaa löytyviä\n"
+"toimintoja."
+
+msgid ""
+"The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to "
+"create a Dreambox format data DVD (which will not play in stand-alone DVD "
+"players) instead?"
+msgstr ""
+"DVD-standardi ei tue H.264 (HDTV) videota. Haluatko luoda Dreamboxin omassa "
+"formaatissa olevan data-DVD:n? Levy ei toistu normaaleissa DVD-soittimissa."
+
+msgid ""
+"The USB stick is now bootable. Do you want to download the latest image from "
+"the feed server and save it on the stick?"
+msgstr ""
+
+msgid "The backup failed. Please choose a different backup location."
+msgstr "Varmuuskopiointi epäonnistui. Valitse toinen varmuuskopiointipaikka."
+
+#, python-format
+msgid ""
+"The following device was found:\n"
+"\n"
+"%s\n"
+"\n"
+"Do you want to write the USB flasher to this stick?"
+msgstr ""
+"Seuraava laite löytyi:\n"
+"\n"
+"%s\n"
+"\n"
+"Haluatko tallentaa ohjelmistopäivitysohjelman tälle USB-muistille?"
+
+msgid "The following files were found..."
+msgstr "Seuraavat tiedostot löytyi..."
+
+msgid ""
+"The input port should be configured now.\n"
+"You can now configure the screen by displaying some test pictures. Do you "
+"want to do that now?"
+msgstr ""
+"Näytön liitäntä pitäisi nyt olla kunnossa.\n"
+"Voit nyt säätää näyttöä testikuvien avulla. Haluatko tehdä sen?"
+
+msgid "The installation of the default services lists is finished."
+msgstr "Oletuskanavalistojen asennus on suoritettu."
+
+msgid ""
+"The installation of the default settings is finished. You can now continue "
+"configuring your Dreambox by pressing the OK button on the remote control."
+msgstr ""
+"Oletusarvojen asennus on suoritettu. Voit jatkaa Dreamboxin asetusten "
+"muokkausta painamalla OK."
+
+msgid ""
+"The md5sum validation failed, the file may be corrupted! Are you sure that "
+"you want to burn this image to flash memory? You are doing this at your own "
+"risk!"
+msgstr ""
+"MD5SUM-tarkistusluku virheellinen, tiedosto voi olla vioittunut! Oletko "
+"varma, että haluat asentaa tämän ohjelmistopäivityksen? Teet sen omalla "
+"vastuulla!"
+
+msgid ""
+"The md5sum validation failed, the file may be downloaded incompletely or be "
+"corrupted!"
+msgstr ""
+"MD5SUM-tarkistusluku virheellinen, tiedosto voi olla keskeneräinen tai "
+"vioittunut!"
+
+msgid "The package doesn't contain anything."
+msgstr "Paketti ei sisällä mitään."
+
+#, python-format
+msgid "The path %s already exists."
+msgstr "Polku %s on jo olemassa."
+
+msgid "The pin code has been changed successfully."
+msgstr "Tunnusluku on nyt vaihdettu."
+
+msgid "The pin code you entered is wrong."
+msgstr "Syötit virheellisen tunnusluvun."
+
+msgid "The pin codes you entered are different."
+msgstr "Syöttämäsi tunnusluvut eroavat toisistaan."
+
+#, python-format
+msgid "The results have been written to %s."
+msgstr "Tulokset kirjoitettiin %s."
+
+msgid "The sleep timer has been activated."
+msgstr "Uniajastin on kytketty päälle."
+
+msgid "The sleep timer has been disabled."
+msgstr "Uniajastin on kytketty pois päältä."
+
+msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+msgstr "Ajastusluettelo (timers.xml) on korruptoitunut eikä sitä voida ladata"
+
+msgid ""
+"The wireless LAN plugin is not installed!\n"
+"Please install it."
+msgstr ""
+"WLAN-lisäosaa ei ole asennettu!\n"
+"Asenna se."
+
+msgid ""
+"The wizard can backup your current settings. Do you want to do a backup now?"
+msgstr ""
+"Velho voi kopioida nykyiset asetuksesi. Haluatko varmuuskopioida asetukset?"
+
+msgid "The wizard is finished now."
+msgstr "Velho on lopettanut. Paina OK."
+
+msgid "There are no default services lists in your image."
+msgstr "Oletuskanavalistoja ei löydy. Paina OK."
+
+msgid "There are no default settings in your image."
+msgstr "Oletusarvoja ei löydy. Paina OK."
+
+msgid ""
+"There might not be enough Space on the selected Partition.\n"
+"Do you really want to continue?"
+msgstr ""
+"Kiintolevyn osiolla ei välttämättä ole riittävästi tilaa.\n"
+"Haluatko varmasti jatkaa?"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Virhe ladattaessa IPKG-ohjelmapakettiluetteloa. Yritä uudestaan."
+
+#, python-format
+msgid "This .NFI file does not contain a valid %s image!"
+msgstr "Tämä .NFI-tiedosto ei sisällä toimivaa %s ohjelmistopäivitystä!"
+
+msgid ""
+"This .NFI file does not have a md5sum signature and is not guaranteed to "
+"work. Do you really want to burn this image to flash memory?"
+msgstr ""
+"Tällä .NFI-tiedostolla ei ole MD5SUM-tarkistuslukua eikä sen toiminnasta ole "
+"takeita. Oletko varma, että haluat asentaa tämän ohjelmistopäivityksen?"
+
+msgid ""
+"This .NFI file has a valid md5 signature. Continue programming this image to "
+"flash memory?"
+msgstr ""
+".NFI-tiedoston MD5-tarkistusluku on kunnossa. Jatketaanko "
+"ohjelmistopäivityksen asentamista?"
+
+msgid ""
+"This DVD RW medium is already formatted - reformatting will erase all "
+"content on the disc."
+msgstr ""
+"Tämä DVD-RW levy on jo alustettu - uudelleenalustus tuhoaa levyn kaiken "
+"sisällön."
+
+#, python-format
+msgid "This Dreambox can't decode %s streams!"
+msgstr "Tämä Dreambox ei pysty purkamaan %s lähteitä!"
+
+#, python-format
+msgid "This Dreambox can't decode %s video streams!"
+msgstr "Dreambox ei voi purkaa %s video-raitoja!"
+
+msgid "This is step number 2."
+msgstr "Tämä on vaihe 2."
+
+msgid "This is unsupported at the moment."
+msgstr "Tätä ei tällä hetkellä tueta."
+
+msgid ""
+"This test checks for configured Nameservers.\n"
+"If you get a \"unconfirmed\" message:\n"
+"- please check your DHCP, cabling and Adapter setup\n"
+"- if you configured your Nameservers manually please verify your entries in "
+"the \"Nameserver\" Configuration"
+msgstr ""
+"Tämä testi tarkistaa nimipalvelimet.\n"
+"Jos näet \"vahvistamaton\" ilmoituksen:\n"
+"- tarkista DHCP, kaapelointi ja Sovittimen asetukset\n"
+"- jos määrittelit nimipalvelimet käsin, tarkista arvot \"Nimipalvelimen "
+"asetukset\" kohdassa"
+
+msgid ""
+"This test checks whether a network cable is connected to your LAN-Adapter.\n"
+"If you get a \"disconnected\" message:\n"
+"- verify that a network cable is attached\n"
+"- verify that the cable is not broken"
+msgstr ""
+"Tämä testi tarkistaa, onko verkkokaapeli kytketty verkkokorttiin.\n"
+"Jos näet \"ei kytketty\" ilmoituksen:\n"
+"- tarkista, että kaapeli on kytketty\n"
+"- tarkista, ettei kaapeli ole vaurioitunut"
+
+msgid ""
+"This test checks whether a valid IP Address is found for your LAN Adapter.\n"
+"If you get a \"unconfirmed\" message:\n"
+"- no valid IP Address was found\n"
+"- please check your DHCP, cabling and adapter setup"
+msgstr ""
+"Tämä testi tarkistaa, onko verkkosovittimella toimiva IP-osoite.\n"
+"Jos näet \"vahvistamaton\" ilmoituksen:\n"
+"- toimivaa IP-osoitetta ei löytynyt\n"
+"- tarkista DHCP, kaapeli ja verkkosovittimen asetukset"
+
+msgid ""
+"This test checks whether your LAN Adapter is set up for automatic IP Address "
+"configuration with DHCP.\n"
+"If you get a \"disabled\" message:\n"
+" - then your LAN Adapter is configured for manual IP Setup\n"
+"- verify thay you have entered correct IP informations in the AdapterSetup "
+"dialog.\n"
+"If you get an \"enabeld\" message:\n"
+"-verify that you have a configured and working DHCP Server in your network."
+msgstr ""
+"Tämä testi tarkistaa, onko verkkosovittimelle määritetty automaattinen IP-"
+"osoite DHCP:n kautta.\n"
+"Jos näet \"ei käytössä\" ilmoituksen:\n"
+"- verkkosovitin on määritelty käyttämään kiinteää IP-osoitetta\n"
+"- tarkista, että olet syöttänyt oikeat IP-tiedot Sovittimen asetukset -"
+"kohdassa.\n"
+"Jos näet \"käytössä\" ilmoituksen:\n"
+"- tarkista, että sinulla on lähiverkossasi toimiva ja oikein määritelty DCHP-"
+"palvelin."
+
+msgid "This test detects your configured LAN-Adapter."
+msgstr "Tämä testi tunnistaa määrittelemäsi verkkosovittimen."
+
+msgid "Three"
+msgstr "Kolme"
+
+msgid "Threshold"
+msgstr "Kynnys"
+
+msgid "Thu"
+msgstr "to"
+
+msgid "Thumbnails"
+msgstr "Esikats.kuvat"
+
+msgid "Thursday"
+msgstr "Torstai"
+
+msgid "Time"
+msgstr "Aika"
+
+msgid "Time/Date Input"
+msgstr "Aika/Päivä"
+
+msgid "Timer"
+msgstr "Ajastukset"
+
+msgid "Timer Edit"
+msgstr "Ajastuksen muokkaus"
+
+msgid "Timer Editor"
+msgstr "Ajastetut ohjelmat"
+
+#  Asetuksen nimi ajastusikkunassa
+msgid "Timer Type"
+msgstr "Ajastuksen tyyppi"
+
+#  Ajastusikkunan otsikkopalkin teksti
+msgid "Timer entry"
+msgstr "Ajastettava ohjelma"
+
+msgid "Timer log"
+msgstr "Ajastinloki"
+
+msgid ""
+"Timer overlap in timers.xml detected!\n"
+"Please recheck it!"
+msgstr ""
+"Ajastusten päällekkäisyys havaittu!\n"
+"Tarkista ajastusasetukset!"
+
+msgid "Timer sanity error"
+msgstr "Päällekkäinen ajastus"
+
+msgid "Timer selection"
+msgstr "Ajastinvalinta"
+
+msgid "Timer status:"
+msgstr "Ajastimen tila:"
+
+msgid "Timeshift"
+msgstr "Ajansiirto"
+
+msgid "Timeshift not possible!"
+msgstr "Ajansiirtotallennusta ei voida käyttää."
+
+msgid "Timeshift path..."
+msgstr "Ajansiirron hakemisto..."
+
+msgid "Timezone"
+msgstr "Aikavyöhyke"
+
+msgid "Title"
+msgstr "Otsikko"
+
+msgid "Title properties"
+msgstr "Ominaisuudet"
+
+msgid "Titleset mode"
+msgstr "Tila"
+
+msgid ""
+"To update your Dreambox firmware, please follow these steps:\n"
+"1) Turn off your box with the rear power switch and plug in the bootable USB "
+"stick.\n"
+"2) Turn mains back on and hold the DOWN button on the front panel pressed "
+"for 10 seconds.\n"
+"3) Wait for bootup and follow instructions of the wizard."
+msgstr ""
+
+msgid "Today"
+msgstr "Tänään"
+
+msgid "Tone mode"
+msgstr "22KHz-ääni"
+
+msgid "Toneburst"
+msgstr "Äänipurske"
+
+msgid "Toneburst A/B"
+msgstr "Äänipurske A/B"
+
+msgid "Track"
+msgstr "Raita"
+
+msgid "Translation"
+msgstr "Käännös"
+
+msgid "Translation:"
+msgstr "Käännös:"
+
+msgid "Transmission Mode"
+msgstr "Lähetystapa"
+
+msgid "Transmission mode"
+msgstr "Lähetystapa"
+
+msgid "Transponder"
+msgstr "Lähetin"
+
+msgid "Transponder Type"
+msgstr "Lähettimen tyyppi"
+
+msgid "Tries left:"
+msgstr "Yrityksiä jäljellä:"
+
+msgid "Try to find used Transponders in cable network.. please wait..."
+msgstr "Haetaan kaapeliverkon lähetystaajuuksia...odota..."
+
+msgid "Try to find used transponders in cable network.. please wait..."
+msgstr "Haetaan kaapeliverkon lähetystaajuuksia...odota..."
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Ladataan uusinta IPKG-ohjelmapakettiluetteloa. Odota..."
+
+msgid "Tue"
+msgstr "ti"
+
+msgid "Tuesday"
+msgstr "Tiistai"
+
+msgid "Tune"
+msgstr "Viritys"
+
+msgid "Tune failed!"
+msgstr "Viritys epäonnistui!"
+
+msgid "Tuner"
+msgstr "Viritin"
+
+msgid "Tuner "
+msgstr "Viritin "
+
+msgid "Tuner Slot"
+msgstr "Viritinpaikka"
+
+msgid "Tuner configuration"
+msgstr "Virittimien asetukset"
+
+msgid "Tuner status"
+msgstr "Virittimen tila"
+
+msgid "Turkish"
+msgstr "Turkki"
+
+msgid "Two"
+msgstr "Kaksi"
+
+msgid "Type"
+msgstr ""
+
+msgid "Type of scan"
+msgstr "Hakutapa"
+
+msgid "USALS"
+msgstr "USALS"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "USB Stick"
+msgstr "USB-muisti"
+
+msgid "USB stick wizard"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+msgid ""
+"Unable to complete filesystem check.\n"
+"Error: "
+msgstr ""
+"Tiedostojärjestelmän tarkistus epäonnistui.\n"
+"Virhe: "
+
+msgid ""
+"Unable to initialize harddisk.\n"
+"Error: "
+msgstr ""
+"Kiintolevyn alustus epäonnistui.\n"
+"Virhe: "
+
+msgid "Uncommitted DiSEqC command"
+msgstr "Uncommitted DiSEqC-käsky"
+
+msgid "Unicable"
+msgstr ""
+
+msgid "Unicable LNB"
+msgstr ""
+
+msgid "Unicable Martix"
+msgstr ""
+
+msgid "Universal LNB"
+msgstr "Universaali LNB"
+
+msgid "Unmount failed"
+msgstr "Irrottaminen epäonnistui"
+
+msgid "Update"
+msgstr "Päivitä"
+
+msgid "Updates your receiver's software"
+msgstr "Päivittää vastaanottimen ohjelmiston"
+
+msgid "Updating finished. Here is the result:"
+msgstr "Päivitys suoritettu. Tulos:"
+
+msgid "Updating... Please wait... This can take some minutes..."
+msgstr "Päivitetään... Odota... Tämä voi kestää muutaman minuutin..."
+
+msgid "Upgrade finished."
+msgstr "Päivitys suoritettu."
+
+msgid "Upgrade finished. Do you want to reboot your Dreambox?"
+msgstr "Päivitys suoritettu. Haluatko käynnistää Dreamboxin uudelleen?"
+
+msgid "Upgrading"
+msgstr "Päivitetään"
+
+msgid "Upgrading Dreambox... Please wait"
+msgstr "Päivitetään Dreamboxia... Odota"
+
+msgid "Use"
+msgstr "Käytä"
+
+msgid "Use DHCP"
+msgstr "Käytä DHCP:tä"
+
+msgid "Use Interface"
+msgstr "Sovitin käytössä"
+
+msgid "Use Power Measurement"
+msgstr "Käytä virran mittausta"
+
+msgid "Use a gateway"
+msgstr "Käytä yhdyskäytävää"
+
+#.   TRANSLATORS: The effect of "Non-smooth winding" is that rather
+#.       than using ordinary "continuous" or "smooth" winding, a fast
+#.       sequence of stills is shown when winding at high speeds. This
+#.       makes it much easier too follow when almost each frame comes from
+#.       a new scene. The effect is achieved by repeating each shown frame
+#.       a couple of times. The settings control both at which speed this
+#.       winding mode sets in, and how many times each frame should be
+#.       repeated. This was previously called "Discontinuous playback"
+#.       which was incomprehensible. "Non-smooth winding" may be a better
+#.       term, but note that there is nothing irregular about it. Synonyms
+#.       better suited for translation to other languages may be "stepwise
+#.       winding/playback", or "winding/playback using stills". 
+msgid "Use non-smooth winding at speeds above"
+msgstr "Hyppivä kelaus kun nopeus ylittää"
+
+msgid "Use power measurement"
+msgstr "Käytä virran mittausta"
+
+msgid "Use the Networkwizard to configure your Network\n"
+msgstr ""
+"Muokkaa lähiverkon asetukset Verkkovelhon avulla\n"
+"\n"
+
+#  Ohjatun asennuksen (Start Wizard) kolmas ruutu. Teksti on rivitetty
+#  tilaansa käsin. Hyödyksi käytetään Unicode-nuolisymboleja.
+msgid ""
+"Use the left and right buttons to change an option.\n"
+"\n"
+"Please set up tuner A"
+msgstr ""
+"Käytä vasenta ja oikeaa nuoli-\n"
+"näppäintä (◄►) vaihtoehtojen\n"
+"selaukseen.\n"
+"\n"
+"Määritä virittimen 1 asetukset:"
+
+#  Ohjatun asennuksen (Start Wizard) toinen ruutu. Teksti on rivitetty
+#  tilaansa käsin. Hyödyksi käytetään Unicode-nuolisymboleja.
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, "
+"press OK."
+msgstr ""
+"Valitse haluamasi vaihtoehto\n"
+"kaukosäätimen nuolinäppäimillä\n"
+"(▲▼).\n"
+"\n"
+"Hyväksy valinta sen jälkeen\n"
+"OK-näppäimellä."
+
+msgid "Use usals for this sat"
+msgstr "Käytä USALS:ia tälle satelliitille"
+
+#  Ohjatun asennuksen (Start Wizard) kakkosruudun valintateksti.
+#  Alkutekstin "basic features" ei tarvinne suomennetussa versiossa
+#  erillistä mainintaa: asia käy samalta ruudulta ilmi muutenkin,
+#  ja tekstiä on muuten vaikea saada sopimaan ruudulle luontevasti.
+msgid "Use wizard to set up basic features"
+msgstr "Käytä ohjattua asennusta"
+
+msgid "Used service scan type"
+msgstr "Käytetty kanavahakutyyppi"
+
+msgid "User defined"
+msgstr "Käyttäjän määrittelemä"
+
+#  Päävalikon VCR-SCART-toiminnon nimi
+msgid "VCR scart"
+msgstr "SCART-läpivienti"
+
+msgid "VMGM (intro trailer)"
+msgstr ""
+
+msgid "Vertical"
+msgstr "Vertikaali"
+
+msgid "Video Fine-Tuning"
+msgstr "TV-kuvan hienosäätö..."
+
+msgid "Video Fine-Tuning Wizard"
+msgstr "TV-kuvan hienosäätövelho"
+
+msgid "Video Output"
+msgstr "Video-ulostulo"
+
+msgid "Video Setup"
+msgstr "Video-asetukset"
+
+msgid "Video Wizard"
+msgstr "Video-velho"
+
+msgid ""
+"Video input selection\n"
+"\n"
+"Please press OK if you can see this page on your TV (or select a different "
+"input port).\n"
+"\n"
+"The next input port will be automatically probed in 10 seconds."
+msgstr ""
+"Video-sisäänmenon valinta\n"
+"\n"
+"Paina OK jos näet tämän ruudun TV:ssä (tai valitse TV:stä toinen "
+"sisäänmeno)\n"
+"\n"
+"Seuraavaa sisäänmenoa tunnistetaan automaattisesti 10 sekunnin kuluttua."
+
+msgid "Video mode selection."
+msgstr "Video-tilan valinta."
+
+msgid "View"
+msgstr "Näytä"
+
+msgid "View Movies..."
+msgstr "Näytä tallenteita..."
+
+msgid "View Photos..."
+msgstr "Näytä kuvia..."
+
+msgid "View Rass interactive..."
+msgstr ""
+
+msgid "View Video CD..."
+msgstr "Katso Video-CD..."
+
+msgid "View list of available CommonInterface extensions"
+msgstr "Näytä saatavilla olevat CI-laajennukset"
+
+msgid "View list of available Display and Userinterface extensions."
+msgstr "Näytä saatavilla olevat näyttö ja käyttöliittymälaajennukset"
+
+msgid "View list of available EPG extensions."
+msgstr "Näytä saatavilla olevat EPG-laajennukset"
+
+msgid "View list of available Satteliteequipment extensions."
+msgstr "Näytä saatavilla olevat satelliittilaitelaajennukset"
+
+msgid "View list of available communication extensions."
+msgstr "Näytä saatavilla olevat tietoliikennelaajennukset"
+
+msgid "View list of available default settings"
+msgstr "Näytä saatavilla olevat oletusasetukset"
+
+msgid "View list of available multimedia extensions."
+msgstr "Näytä saatavilla olevat multimedia-laajennukset"
+
+msgid "View list of available networking extensions"
+msgstr "Näytä saatavilla olevat verkkolaajennukset"
+
+msgid "View list of available recording extensions"
+msgstr "Näytä saatavilla olevat tallennuslaajennukset"
+
+msgid "View list of available skins"
+msgstr "Näytä saatavilla olevat teemat"
+
+msgid "View list of available software extensions"
+msgstr "Näytä saatavilla olevat ohjelmistolaajennukset"
+
+msgid "View list of available system extensions"
+msgstr "Näytä saatavilla olevat järjestelmälaajennukset"
+
+msgid "View teletext..."
+msgstr "Näytä teksti-tv..."
+
+msgid "Virtual KeyBoard"
+msgstr "Virtuaalinen näppäimistö"
+
+msgid "Voltage mode"
+msgstr "13/18V-jännite"
+
+msgid "Volume"
+msgstr "Äänenvoimakkuus"
+
+msgid "W"
+msgstr "W"
+
+msgid "WEP"
+msgstr ""
+
+msgid "WPA"
+msgstr ""
+
+msgid "WPA or WPA2"
+msgstr ""
+
+msgid "WPA2"
+msgstr ""
+
+msgid "WSS on 4:3"
+msgstr "WSS-kuvasuhdesignaali"
+
+msgid "Waiting"
+msgstr "Odottaa"
+
+msgid ""
+"We will now test if your TV can also display this resolution at 50hz. If "
+"your screen goes black, wait 20 seconds and it will switch back to 60hz.\n"
+"Please press OK to begin."
+msgstr ""
+"Testaamme nyt näyttääkö televisiosi tämän tarkkuuden 50hz:llä. Jos ruutu "
+"menee mustaksi, odota 20 sekuntia jolloin 60hz tila kytkeytyy takaisin "
+"päälle.\n"
+"Aloita painamalla OK."
+
+msgid "Wed"
+msgstr "ke"
+
+msgid "Wednesday"
+msgstr "Keskiviikko"
+
+msgid "Weekday"
+msgstr "Viikonpäivä"
+
+msgid ""
+"Welcome to the Cutlist editor.\n"
+"\n"
+"Seek to the start of the stuff you want to cut away. Press OK, select 'start "
+"cut'.\n"
+"\n"
+"Then seek to the end, press OK, select 'end cut'. That's it."
+msgstr ""
+"Tervetuloa leikkauskohtien muokkaukseen.\n"
+"\n"
+"Hae kohta, josta haluat aloittaa poisleikkauksen. Paina OK-näppäintä ja "
+"valitse 'Aloita leikkaus'.\n"
+"\n"
+"Hae seuraavaksi kohta, johon haluat lopettaa leikkauksen. Paina OK-näppäintä "
+"ja valitse 'Lopeta leikkaus'."
+
+msgid ""
+"Welcome to the Image upgrade wizard. The wizard will assist you in upgrading "
+"the firmware of your Dreambox by providing a backup facility for your "
+"current settings and a short explanation of how to upgrade your firmware."
+msgstr ""
+"Tervetuloa ohjelmiston päivitys-Velhoon. Velho avustaa ohjelmiston "
+"päivityksessä ja varmuuskopioinnissa sekä asetusten palauttamisessa "
+"päivityksen jälkeen."
+
+#  Ohjatun alkuasennuksen (Start Wizard) aloitusruutu. Teksti on
+#  sovitettu melko tarkasti tilaansa, joten muutoksia ei ole syytä
+#  tehdä testaamatta niitä ensin käytännössä. Tekstiin on lisätty
+#  alkukielisestä versiosta puuttuva rauhoittava huomautus siitä,
+#  että ohjattua asennusta ei ole pakko käyttää, jos on niin kova
+#  guru, ettei sellaisia hömpötyksiä koe tarvitsevansa.
+msgid ""
+"Welcome.\n"
+"\n"
+"This start wizard will guide you through the basic setup of your Dreambox.\n"
+"Press the OK button on your remote control to move to the next step."
+msgstr ""
+"Tervetuloa.\n"
+"\n"
+"Tämä asennustoiminto opastaa\n"
+"kuinka laitat Dreamboxin\n"
+"perusasetukset kuntoon.\n"
+"\n"
+"Aloita asennus painamalla\n"
+"kaukosäätimen OK-näppäintä."
+
+msgid "Welcome..."
+msgstr "Tervetuloa..."
+
+msgid "West"
+msgstr "Länsi"
+
+#  Ohjatun asennuksen (Start Wizard) kutosruudun ohjeteksti
+#  Alkukielinen teksti on tilanteeseen nähden aika pösilö.
+msgid "What do you want to scan?"
+msgstr "Kanavahaun lisäasetukset:"
+
+msgid ""
+"When you do a factory reset, you will lose ALL your configuration data\n"
+"(including bouquets, services, satellite data ...)\n"
+"After completion of factory reset, your receiver will restart "
+"automatically!\n"
+"\n"
+"Really do a factory reset?"
+msgstr ""
+
+msgid "Where do you want to backup your settings?"
+msgstr "Minne haluat varmuuskopioida asetukset?"
+
+msgid "Where to save temporary timeshift recordings?"
+msgstr "Minne ajansiirron väliaikainen tiedosto tallennetaan?"
+
+msgid "Wireless"
+msgstr "Langaton"
+
+msgid "Wireless Network"
+msgstr "Langaton verkko"
+
+msgid "Write error while recording. Disk full?\n"
+msgstr "Kirjoitusvirhe tallennuksessa. Levy täynnä?\n"
+
+msgid "Write failed!"
+msgstr "Kirjoitus epäonnistui!"
+
+msgid "Writing NFI image file to flash completed"
+msgstr "NFI-päivityksen asennus suoritetti"
+
+msgid "YPbPr"
+msgstr "Komponentti (YPbPr)"
+
+msgid "Year"
+msgstr "Vuosi"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "Yes, and delete this movie"
+msgstr "Kyllä ja poista tämä tallenne"
+
+msgid "Yes, backup my settings!"
+msgstr "Kyllä, varmuuskopioi asetukset!"
+
+msgid "Yes, do a manual scan now"
+msgstr "Kyllä, tee manuaalihaku nyt"
+
+msgid "Yes, do an automatic scan now"
+msgstr "Kyllä, tee automaattihaku nyt"
+
+msgid "Yes, do another manual scan now"
+msgstr "Kyllä, tee toinen manuaalihaku nyt"
+
+msgid "Yes, perform a shutdown now."
+msgstr "Kyllä, sammuta nyt."
+
+msgid "Yes, restore the settings now"
+msgstr "Kyllä, palauta asetukset nyt"
+
+msgid "Yes, returning to movie list"
+msgstr "Kyllä, palataan tallenneluetteloon"
+
+msgid "Yes, view the tutorial"
+msgstr "Kyllä, katso opasohjelma"
+
+msgid ""
+"You can choose some default settings now. Please select the settings you "
+"want to be installed."
+msgstr "Valitse mitkä oletusarvot haluat asentaa."
+
+msgid "You can choose, what you want to install..."
+msgstr "Voit valita, mitä haluat asentaa..."
+
+msgid "You cannot delete this!"
+msgstr "Et voi poistaa tätä!"
+
+msgid "You chose not to install any default services lists."
+msgstr "Et valinnut yhtään oletuskanavalistaa. Paina OK."
+
+msgid ""
+"You chose not to install any default settings. You can however install the "
+"default settings later in the settings menu."
+msgstr ""
+"Et valinnut mitään oletusasetuksia. Voit kuitenkin asentaa ne myöhemmin "
+"asetusvalikon kautta."
+
+msgid ""
+"You chose not to install anything. Please press OK finish the install wizard."
+msgstr "Et valinnut mitään asennettavaksi. Poistu painamalla OK."
+
+msgid ""
+"You do not seem to have a harddisk in your Dreambox. So backing up to a "
+"harddisk is not an option for you."
+msgstr ""
+"Laitteessasi ei näytä olevan kiintolevyä, joten et voi varmuuskopioida "
+"kiintolevylle."
+
+msgid ""
+"You have chosen to backup to a compact flash card. The card must be in the "
+"slot. We do not verify if it is really used at the moment. So better backup "
+"to the harddisk!\n"
+"Please press OK to start the backup now."
+msgstr ""
+"Olet valinnut varmuuskopioinnin Compact Flash -kortille. Kortin on oltava "
+"lukijassa. Sen toimintaa ei voi todeta. Suosittelemme varmuuskopiointia "
+"kiintolevylle!\n"
+"Paina OK aloittaakseni varmuuskopioinnin nyt."
+
+msgid ""
+"You have chosen to backup to an usb drive. Better backup to the harddisk!\n"
+"Please press OK to start the backup now."
+msgstr ""
+"Olet valinnut varmuuskopioinnin USB:lle. Kiintolevy on luotettavampi "
+"vaihtoehto!\n"
+"Paina OK aloittaaksesi varmuuskopioinnin."
+
+msgid ""
+"You have chosen to backup to your harddisk. Please press OK to start the "
+"backup now."
+msgstr ""
+"Olet valinnut varmuuskopioinnin kiintolevylle. Paina OK aloittaaksesi "
+"varmistuksen nyt."
+
+msgid ""
+"You have chosen to backup your settings. Please press OK to start the backup "
+"now."
+msgstr "Valitsit asetusten varmuuskopioinnin. Aloita painamalla OK-näppäintä."
+
+msgid ""
+"You have chosen to create a new .NFI flasher bootable USB stick. This will "
+"repartition the USB stick and therefore all data on it will be erased."
+msgstr ""
+"Olet valinnut .NFI-päivitysohjelman asennuksen USB-muistille. Tämä toiminto "
+"osioi USB-muistin ja tuhoaa siltä kaikki tiedostot."
+
+msgid ""
+"You have chosen to restore your settings. Enigma2 will restart after "
+"restore. Please press OK to start the restore now."
+msgstr ""
+"Valitsit asetusten palautuksen. Enigma2 käynnistyy uudelleen palautuksen "
+"jälkeen. Aloita painamalla OK-näppäintä."
+
+#, python-format
+msgid "You have to wait %s!"
+msgstr "Sinun täytyy odottaa %s!"
+
+msgid ""
+"You need a PC connected to your dreambox. If you need further instructions, "
+"please visit the website http://www.dm7025.de.\n"
+"Your dreambox will now be halted. After you have performed the update "
+"instructions from the website, your new firmware will ask you to restore "
+"your settings."
+msgstr ""
+"Tarvitse PC:n, joka on yhdistetty Dreamboksiin. Katso lisätietoja http://www."
+"dm7025.de.\n"
+"Dreamboksisi sammutetaan nyt. Kun olet tehnyt päivitystoimenpiteet sivuston "
+"mukaisesti, uusi ohjelmaversio pyytää sinua palauttamaan asetukset."
+
+msgid ""
+"You need to set a pin code and hide it from your children.\n"
+"\n"
+"Do you want to set the pin now?"
+msgstr ""
+"Sinun täytyy asettaa tunnusluku ja piilottaa se lapsiltasi.\n"
+"\n"
+"Haluatko asettaa tunnusluvun nyt?"
+
+msgid "Your Dreambox will restart after pressing OK on your remote control."
+msgstr "Dreambox käynnistyy uudelleen kun painat OK."
+
+msgid "Your TV works with 50 Hz. Good!"
+msgstr "Televisiosi toimii 50Hz:llä. Hyvä!"
+
+msgid ""
+"Your backup succeeded. We will now continue to explain the further upgrade "
+"process."
+msgstr "Varmuuskopiointi onnistui. Päivitys jatkuu eteenpäin."
+
+msgid ""
+"Your collection exceeds the size of a single layer medium, you will need a "
+"blank dual layer DVD!"
+msgstr ""
+
+msgid "Your dreambox is shutting down. Please stand by..."
+msgstr "Laite sammutetaan. Odota..."
+
+msgid ""
+"Your dreambox isn't connected to the internet properly. Please check it and "
+"try again."
+msgstr ""
+"Yhteyttä Internetiin ei kyetty muodostamaan. Tarkista verkkoasetukset ja "
+"yritä uudelleen."
+
+msgid ""
+"Your frontprocessor firmware must be upgraded.\n"
+"Press OK to start upgrade."
+msgstr ""
+"Etupaneelin suorittimen ohjelmisto on päivitettävä.\n"
+"Paina OK aloittaaksesi päivityksen."
+
+msgid "Your network configuration has been activated."
+msgstr "Verkkoasetukset on aktivoitu."
+
+msgid ""
+"Your network configuration has been activated.\n"
+"A second configured interface has been found.\n"
+"\n"
+"Do you want to disable the second network interface?"
+msgstr ""
+"Verkkoasetukset on aktivoitu.\n"
+"Toinen määritelty sovitin löytyi.\n"
+"\n"
+"Haluatko kytkeä sen pois päältä?"
+
+msgid "Zap back to service before positioner setup?"
+msgstr ""
+"Vaihdetaanko takaisin kanavalle, jota katsottiin\n"
+"ennen moottoriasetuksien tekoa?"
+
+msgid "Zap back to service before satfinder?"
+msgstr ""
+"Vaihdetaanko takaisin kanavalle, jota katsottiin\n"
+"ennen satelliittietsimen käyttöä?"
+
+msgid "[alternative edit]"
+msgstr "[Vaihtoehtojen lisäys ja poisto]"
+
+msgid "[bouquet edit]"
+msgstr "[Kanavalistojen lisäys ja poisto]"
+
+msgid "[favourite edit]"
+msgstr "[Suosikkien lisäys ja poisto]"
+
+msgid "[move mode]"
+msgstr "[Suosikkien järjestely]"
+
+msgid "a gui to assign services/providers to common interface modules"
+msgstr ""
+
+msgid "a gui to assign services/providers/caids to common interface modules"
+msgstr ""
+
+msgid "abort alternatives edit"
+msgstr "Peruuta muutokset ja poistu"
+
+msgid "abort bouquet edit"
+msgstr "Peruuta muutokset ja poistu"
+
+msgid "abort favourites edit"
+msgstr "Peruuta muutokset ja poistu"
+
+msgid "about to start"
+msgstr "alkaa juuri"
+
+msgid "activate current configuration"
+msgstr "aktivoi nykyiset asetukset"
+
+msgid "add Provider"
+msgstr "Lisää p.tarjoaja"
+
+msgid "add Service"
+msgstr "Lisää kanava"
+
+msgid "add a nameserver entry"
+msgstr "lisää nimipalvelin"
+
+msgid "add alternatives"
+msgstr "Vaihtoehtojen lisäys ja poisto"
+
+msgid "add bookmark"
+msgstr "lisää kirjanmerkki"
+
+msgid "add bouquet"
+msgstr "Lisää uusi suosikkilista"
+
+msgid "add directory to playlist"
+msgstr "Lisää hakemisto soittolistalle"
+
+msgid "add file to playlist"
+msgstr "Lisää tiedosto soittolistalle"
+
+msgid "add files to playlist"
+msgstr "Lisää tiedostot soittolistalle"
+
+msgid "add marker"
+msgstr "Lisää väliotsikko"
+
+msgid "add recording (enter recording duration)"
+msgstr "Tallenna (Syötä tallennuksen kesto)"
+
+msgid "add recording (enter recording endtime)"
+msgstr "Tallenna (Syötä tallennuksen päättymisaika)"
+
+msgid "add recording (indefinitely)"
+msgstr "Tallenna (Jatkuva tallennus)"
+
+msgid "add recording (stop after current event)"
+msgstr "Tallenna (Lopeta nykyisen ohjelman jälkeen)"
+
+msgid "add service to bouquet"
+msgstr "Lisää kanava suosikkilistalle"
+
+msgid "add service to favourites"
+msgstr "Lisää kanava suosikkeihin"
+
+msgid "add to parental protection"
+msgstr "lisää lapsilukkoon"
+
+msgid "advanced"
+msgstr "Laaja"
+
+msgid "alphabetic sort"
+msgstr "Aakkosjärjestys"
+
+msgid ""
+"are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"haluatko varmasti palauttaa\n"
+"seuraavan varmuuskopion:\n"
+
+msgid "assigned CAIds"
+msgstr "Määritetyt CAId:t"
+
+msgid "assigned Services/Provider"
+msgstr "Määritetyt kanavat/palveluntarjoajat"
+
+#, python-format
+msgid "audio track (%s) format"
+msgstr "Ääniraidan (%s) formaatti"
+
+#, python-format
+msgid "audio track (%s) language"
+msgstr "Ääniraidan (%s) kieli"
+
+msgid "audio tracks"
+msgstr "ääniraidat"
+
+msgid "auto"
+msgstr ""
+
+#  Tämä teksti näytetään monessa valikossa EXIT-napin
+#  kaltaisena poistumistoimintona.
+msgid "back"
+msgstr "Takaisin"
+
+msgid "background image"
+msgstr "Taustakuva"
+
+msgid "backgroundcolor"
+msgstr "Taustan väri"
+
+msgid "better"
+msgstr "parempi"
+
+msgid "black"
+msgstr "musta"
+
+msgid "blacklist"
+msgstr "kielletyt"
+
+msgid "blue"
+msgstr "sininen"
+
+#, python-format
+msgid "burn audio track (%s)"
+msgstr "Polta ääniraita (%s)"
+
+msgid "change recording (duration)"
+msgstr "Aseta tallennuksen kesto"
+
+msgid "change recording (endtime)"
+msgstr "Aseta tallennuksen päättymisaika"
+
+msgid "chapters"
+msgstr "kappaleet"
+
+msgid "choose destination directory"
+msgstr "valitse kohdehakemisto"
+
+msgid "circular left"
+msgstr "Kiertopolarisaatio vasen"
+
+msgid "circular right"
+msgstr "Kiertopolarisaatio oikea"
+
+msgid "clear playlist"
+msgstr "tyhjennä soittolista"
+
+msgid "complex"
+msgstr "monipuolinen"
+
+msgid "config menu"
+msgstr "Asetusvalikko"
+
+msgid "confirmed"
+msgstr "vahvistettu"
+
+msgid "connected"
+msgstr "kytketty"
+
+msgid "continue"
+msgstr "jatka"
+
+msgid "copy to bouquets"
+msgstr "kopioi suosikkilistalle"
+
+msgid "create directory"
+msgstr "luo hakemisto"
+
+msgid "daily"
+msgstr "joka päivä"
+
+msgid "day"
+msgstr "päivä"
+
+msgid "delete"
+msgstr "Poista"
+
+msgid "delete cut"
+msgstr "Poista leikkausmääritys"
+
+msgid "delete file"
+msgstr "poista tiedosto"
+
+msgid "delete playlist entry"
+msgstr "poista soittolistan valinta"
+
+msgid "delete saved playlist"
+msgstr "poista tallennettu soittolista"
+
+#  Teksti esiintyy vain tallenteiden käsittelyvalikossa
+#  Kolme pistettä ovat turhia, tästä aukeaa vain
+#  varmistusikkuna, ei alivalikkoa tai asetusruutua.
+msgid "delete..."
+msgstr "Poista tallenne"
+
+msgid "disable"
+msgstr "Pois"
+
+msgid "disable move mode"
+msgstr "Poistu siirtotilasta"
+
+msgid "disabled"
+msgstr "ei käyt."
+
+msgid "disconnected"
+msgstr "ei kytketty"
+
+msgid "do not change"
+msgstr "Ei muutosta"
+
+msgid "do nothing"
+msgstr "älä tee mitään"
+
+msgid "don't record"
+msgstr "Älä tallenna"
+
+msgid "done!"
+msgstr "tallennettu"
+
+msgid "edit alternatives"
+msgstr "Vaihtoehtojen lisäys ja poisto"
+
+msgid "empty"
+msgstr "tyhjä"
+
+msgid "enable"
+msgstr "Päällä"
+
+msgid "enable bouquet edit"
+msgstr "Kanavalistojen lisäys ja poisto"
+
+msgid "enable favourite edit"
+msgstr "Suosikkien lisäys ja poisto"
+
+msgid "enable move mode"
+msgstr "Suosikkien järjestely"
+
+msgid "enabled"
+msgstr "Päällä"
+
+msgid "end alternatives edit"
+msgstr "Tallenna muutokset ja poistu"
+
+msgid "end bouquet edit"
+msgstr "Tallenna muutokset ja poistu"
+
+msgid "end cut here"
+msgstr "Lopeta leikkaus tähän"
+
+msgid "end favourites edit"
+msgstr "Tallenna muutokset ja poistu"
+
+msgid "enigma2 and network"
+msgstr "enigma2 ja verkko"
+
+msgid "equal to"
+msgstr "Sama kuin"
+
+msgid "exceeds dual layer medium!"
+msgstr "ylittää kaksikerroslevyn tilavuuden!"
+
+msgid "exit DVD player or return to file browser"
+msgstr "poistu DVD-soittimesta tai palaa tiedostonhallintaan"
+
+msgid "exit mediaplayer"
+msgstr "Poistu Mediatoistimesta"
+
+msgid "exit movielist"
+msgstr "poistu tallenneluettelosta"
+
+msgid "exit nameserver configuration"
+msgstr "lopeta nimipalvelimen määritys"
+
+msgid "exit network adapter configuration"
+msgstr "poistu verkkosovittimen asetuksista"
+
+msgid "exit network adapter setup menu"
+msgstr "poistu verkkosovittimen asetusvalikosta"
+
+msgid "exit network interface list"
+msgstr "poistu verkkosovitinluettelosta"
+
+msgid "exit networkadapter setup menu"
+msgstr "poistu verkkosovittimen asetusvalikosta"
+
+msgid "failed"
+msgstr "epäonnistui"
+
+msgid "fileformats (BMP, PNG, JPG, GIF)"
+msgstr "Tiedostomuodot (BMP, PNG, JPG, GIF)"
+
+msgid "filename"
+msgstr "tiedostonimi"
+
+msgid "fine-tune your display"
+msgstr "hienosäädä näyttöä"
+
+msgid "forward to the next chapter"
+msgstr "eteenpäin seuraavaan kappaleeseen"
+
+msgid "free"
+msgstr "vapaana"
+
+msgid "free diskspace"
+msgstr "vapaata levytilaa"
+
+msgid "go to deep standby"
+msgstr "siirry virransäästötilaan"
+
+msgid "go to standby"
+msgstr "siirry valmiustilaan"
+
+msgid "grab this frame as bitmap"
+msgstr ""
+
+msgid "green"
+msgstr "vihreä"
+
+msgid "hear radio..."
+msgstr "kuuntele radiota..."
+
+msgid "help..."
+msgstr "apua..."
+
+msgid "hidden network"
+msgstr "piilotettu verkko"
+
+msgid "hide extended description"
+msgstr "Piilota laajennettu ohjelmakuvaus"
+
+msgid "hide player"
+msgstr "piilota soitin"
+
+msgid "horizontal"
+msgstr "Horisontaali"
+
+msgid "hour"
+msgstr "tunti"
+
+msgid "hours"
+msgstr "tuntia"
+
+msgid "immediate shutdown"
+msgstr "Sammuta heti"
+
+#, python-format
+msgid ""
+"incoming call!\n"
+"%s calls on %s!"
+msgstr ""
+
+msgid "init module"
+msgstr "alusta moduuli"
+
+msgid "init modules"
+msgstr "alusta moduulit"
+
+msgid "insert mark here"
+msgstr "Aseta tähän merkki"
+
+msgid "jump back to the previous title"
+msgstr "hyppää taaksepäin edelliseen kappaleeseen"
+
+msgid "jump forward to the next title"
+msgstr "hyppää eteenpäin seuraavaan kappaleeseen"
+
+msgid "jump to listbegin"
+msgstr "mene listan alkuun"
+
+msgid "jump to listend"
+msgstr "mene listan loppuun"
+
+msgid "jump to next marked position"
+msgstr "mene seuraavaan merkkiin"
+
+msgid "jump to previous marked position"
+msgstr "mene edelliseen merkkiin"
+
+msgid "leave movie player..."
+msgstr "poistu videotoistimesta..."
+
+msgid "left"
+msgstr "vasen"
+
+msgid "length"
+msgstr "pituus"
+
+msgid "list style compact"
+msgstr "Luettelon tyyli: tiivistetty"
+
+msgid "list style compact with description"
+msgstr "Luettelon tyyli: tiivistetty kuvaustekstillä"
+
+msgid "list style default"
+msgstr "Luettelon tyyli: vakio"
+
+msgid "list style single line"
+msgstr "Luettelon tyyli: yksi rivi"
+
+msgid "load playlist"
+msgstr "lataa soittolista"
+
+msgid "locked"
+msgstr "lukittu"
+
+msgid "loopthrough to"
+msgstr "Läpisyöttö"
+
+msgid "manual"
+msgstr "manuaalinen"
+
+msgid "menu"
+msgstr "Valikko"
+
+msgid "menulist"
+msgstr "valikkoluettelo"
+
+msgid "mins"
+msgstr "minuuttia"
+
+msgid "minute"
+msgstr "minuutti"
+
+msgid "minutes"
+msgstr "minuuttia"
+
+msgid "month"
+msgstr "kuukausi"
+
+msgid "move PiP to main picture"
+msgstr "Siirrä PiP pääkuvaan"
+
+msgid "move down to last entry"
+msgstr ""
+
+msgid "move down to next entry"
+msgstr ""
+
+msgid "move up to first entry"
+msgstr ""
+
+msgid "move up to previous entry"
+msgstr ""
+
+msgid "movie list"
+msgstr "tallenneluettelo"
+
+msgid "multinorm"
+msgstr "moninormi"
+
+msgid "never"
+msgstr "ei koskaan"
+
+msgid "next channel"
+msgstr "seuraava kanava"
+
+msgid "next channel in history"
+msgstr "seuraava kanava historiassa"
+
+msgid "no"
+msgstr "Ei"
+
+msgid "no CAId selected"
+msgstr "Ei CAId:tä valittu"
+
+msgid "no CI slots found"
+msgstr "CI-portteja ei löytynyt"
+
+msgid "no HDD found"
+msgstr "kiintolevyä ei löydy"
+
+msgid "no module found"
+msgstr "(Portissa ei ole CA-moduulia)"
+
+msgid "no standby"
+msgstr "ei valmiustilaa"
+
+msgid "no timeout"
+msgstr "ei aikaa"
+
+msgid "none"
+msgstr "ei mitään"
+
+msgid "not locked"
+msgstr "ei lukittu"
+
+msgid "not used"
+msgstr "ei käyt."
+
+msgid "nothing connected"
+msgstr "Ei kytketty"
+
+msgid "of a DUAL layer medium used."
+msgstr "DL-DVD-levystä käytetty."
+
+msgid "of a SINGLE layer medium used."
+msgstr "DVD-levystä käytetty."
+
+msgid "off"
+msgstr "Pois"
+
+msgid "on"
+msgstr "Päällä"
+
+msgid "on READ ONLY medium."
+msgstr "vain-luku levystä."
+
+msgid "once"
+msgstr "kerran"
+
+msgid "open nameserver configuration"
+msgstr "avaan nimipalvelimen asetus"
+
+msgid "open servicelist"
+msgstr "Avaa kanavalista"
+
+msgid "open servicelist(down)"
+msgstr "Avaa kanavalista(alaspäin)"
+
+msgid "open servicelist(up)"
+msgstr "Avaa kanavalista(ylöspäin)"
+
+msgid "open virtual keyboard input help"
+msgstr ""
+
+msgid "pass"
+msgstr "hyväksytty"
+
+msgid "pause"
+msgstr "tauko"
+
+msgid "play entry"
+msgstr "toista"
+
+msgid "play from next mark or playlist entry"
+msgstr "toista seuraavasta merkistä tai valinnasta"
+
+msgid "play from previous mark or playlist entry"
+msgstr "toista edellisestä merkistä tai valinnasta"
+
+msgid "please press OK when ready"
+msgstr "paina OK kun olet valmis"
+
+msgid "please wait, loading picture..."
+msgstr "Kuvaa ladataan. Odota..."
+
+msgid "previous channel"
+msgstr "Edellinen kanava"
+
+msgid "previous channel in history"
+msgstr "Edellinen kanava historiassa"
+
+msgid "record"
+msgstr "tallennus"
+
+msgid "recording..."
+msgstr "tallennetaan..."
+
+msgid "red"
+msgstr "punainen"
+
+msgid "remove a nameserver entry"
+msgstr "poista nimipalvelin"
+
+msgid "remove after this position"
+msgstr "Poista tämän kohdan jälkeen"
+
+msgid "remove all alternatives"
+msgstr "Poista vaihtoehtoiset kanavat"
+
+msgid "remove all new found flags"
+msgstr "poista kaikki uusi kanava-liput"
+
+msgid "remove before this position"
+msgstr "Poista kaikki ennen tätä kohtaa"
+
+msgid "remove bookmark"
+msgstr "poista kirjanmerkki"
+
+msgid "remove directory"
+msgstr "poista hakemisto"
+
+msgid "remove entry"
+msgstr "Poista"
+
+msgid "remove from parental protection"
+msgstr "poista lapsilukosta"
+
+msgid "remove new found flag"
+msgstr "poista uusi kanava-lippu"
+
+msgid "remove selected satellite"
+msgstr "poista valittu satelliitti"
+
+msgid "remove this mark"
+msgstr "Poista tämä merkki"
+
+msgid "repeat playlist"
+msgstr "toista soittolista"
+
+msgid "repeated"
+msgstr "useita kertoja"
+
+msgid "rewind to the previous chapter"
+msgstr "kelaa edelliseen kappaleeseen"
+
+msgid "right"
+msgstr "oikea"
+
+msgid "save last directory on exit"
+msgstr "tallenna viimeisin hakemisto suljettaessa"
+
+msgid "save playlist"
+msgstr "tallenna soittolista"
+
+msgid "save playlist on exit"
+msgstr "tallenna soittolista suljettaessa"
+
+msgid "scan done!"
+msgstr "Haku suoritettu!"
+
+#, python-format
+msgid "scan in progress - %d%% done!"
+msgstr "Haku käynnissä - %d%% tehty!"
+
+msgid "scan state"
+msgstr "haun tila"
+
+msgid "second"
+msgstr "sekunti"
+
+msgid "second cable of motorized LNB"
+msgstr "Kääntyvän antennin twin-LNB:n toinen kaapeli"
+
+msgid "seconds"
+msgstr "sekuntia"
+
+msgid "select"
+msgstr "valitse"
+
+msgid "select .NFI flash file"
+msgstr "valitse .NFI flash-tiedosto"
+
+msgid "select CAId"
+msgstr "Valitse CAId"
+
+msgid "select CAId's"
+msgstr ""
+
+msgid "select image from server"
+msgstr "valitse päivitys palvelimelta"
+
+msgid "select interface"
+msgstr "valitse sovitin"
+
+msgid "select menu entry"
+msgstr ""
+
+msgid "select movie"
+msgstr "valitse tallenne"
+
+msgid "select the movie path"
+msgstr "valitse tallennehakemisto"
+
+msgid "service pin"
+msgstr "kanavien tunnusluku"
+
+msgid "setup pin"
+msgstr "asetusten tunnusluku"
+
+msgid "show DVD main menu"
+msgstr "näytä DVD:n päävalikko"
+
+msgid "show EPG..."
+msgstr "näytä EPG..."
+
+msgid "show Infoline"
+msgstr "Näytä tietopalkki"
+
+msgid "show all"
+msgstr "näytä kaikki"
+
+msgid "show alternatives"
+msgstr "Näytä vaihtoehtoiset kanavat"
+
+msgid "show event details"
+msgstr "näytä ohjelman tarkemmat tiedot"
+
+msgid "show extended description"
+msgstr "Näytä laajennettu ohjelmakuvaus"
+
+msgid "show first selected tag"
+msgstr ""
+
+msgid "show second selected tag"
+msgstr ""
+
+msgid "show shutdown menu"
+msgstr "Näytä sammutusvalikko"
+
+msgid "show single service EPG..."
+msgstr "Näytä yhden kanavan EPG"
+
+msgid "show tag menu"
+msgstr "näytä avainsanavalikko"
+
+msgid "show transponder info"
+msgstr "Näytä lähettimen tietoja"
+
+msgid "shuffle playlist"
+msgstr "arvo soittolista"
+
+msgid "shutdown"
+msgstr "sammuta"
+
+msgid "simple"
+msgstr "Suppea"
+
+msgid "skip backward"
+msgstr "siirry taaksepäin"
+
+msgid "skip backward (enter time)"
+msgstr "siirry taaksepäin (syötä aika)"
+
+msgid "skip forward"
+msgstr "siirry eteenpäin"
+
+msgid "skip forward (enter time)"
+msgstr "siirry eteenpäin (syötä aika)"
+
+msgid "slide picture in loop"
+msgstr "Jatkuva toisto"
+
+msgid "sort by date"
+msgstr "Aikajärjestys"
+
+msgid "standard"
+msgstr "Vakio"
+
+msgid "standby"
+msgstr "valmiustila"
+
+msgid "start cut here"
+msgstr "Aloita leikkaus tästä"
+
+msgid "start directory"
+msgstr "aloitushakemisto"
+
+msgid "start timeshift"
+msgstr "Aloita ajansiirtotallennus"
+
+msgid "stereo"
+msgstr "stereo"
+
+msgid "stop PiP"
+msgstr "Sulje PiP-kuva"
+
+msgid "stop entry"
+msgstr "pysäytä"
+
+msgid "stop recording"
+msgstr "Lopeta tallennus"
+
+msgid "stop timeshift"
+msgstr "Lopeta ajansiirtotallennus"
+
+msgid "swap PiP and main picture"
+msgstr "Vaihda PiP- ja pääkuva"
+
+msgid "switch to bookmarks"
+msgstr "vaihda kirjanmerkkeihin"
+
+msgid "switch to filelist"
+msgstr "vaihda tiedostolistaan"
+
+msgid "switch to playlist"
+msgstr "vaihda soittolistaan"
+
+msgid "switch to the next angle"
+msgstr "vaihda seuraavaan kuvakulmaan"
+
+msgid "switch to the next audio track"
+msgstr "vaihda seuraavalle ääniraidalle"
+
+msgid "switch to the next subtitle language"
+msgstr "vaihda seuraavalle tekstityskielelle"
+
+msgid "template file"
+msgstr "Mallitiedosto"
+
+msgid "textcolor"
+msgstr "Tekstin väri"
+
+msgid "this recording"
+msgstr "tämä tallennus"
+
+msgid "this service is protected by a parental control pin"
+msgstr "tämä kanava on suojattu lapsilukolla"
+
+msgid "toggle a cut mark at the current position"
+msgstr "aseta leikkausmerkki nykyiseen kohtaan"
+
+msgid "toggle time, chapter, audio, subtitle info"
+msgstr "valitse aika, kappale, ääni, tekstitys"
+
+msgid "unconfirmed"
+msgstr "vahvistamaton"
+
+msgid "unknown"
+msgstr "tuntematon"
+
+msgid "unknown service"
+msgstr "tuntematon kanava"
+
+msgid "until restart"
+msgstr "kunnes käynnistetään uudelleen"
+
+msgid "user defined"
+msgstr "käyttäjän määrittelemä"
+
+msgid "vertical"
+msgstr "Vertikaali"
+
+msgid "view extensions..."
+msgstr "näytä laajennukset..."
+
+msgid "view recordings..."
+msgstr "näytä tallenteet..."
+
+msgid "wait for ci..."
+msgstr "odotetaan ci:tä..."
+
+msgid "wait for mmi..."
+msgstr "odotetaan mmi:tä..."
+
+msgid "waiting"
+msgstr "odottaa"
+
+msgid "weekly"
+msgstr "joka viikko"
+
+msgid "whitelist"
+msgstr "hyväksytyt"
+
+msgid "working"
+msgstr "työskentelee"
+
+msgid "yellow"
+msgstr "keltainen"
+
+msgid "yes"
+msgstr "Kyllä"
+
+msgid "yes (keep feeds)"
+msgstr "Kyllä (pidä feedit)"
+
+msgid ""
+"your dreambox might be unusable now. Please consult the manual for further "
+"assistance before rebooting your dreambox."
+msgstr ""
+"Asennus ei onnistunut. Dreambox saattaa olla käyttökelvottomassa tilassa. "
+"Joudut ehkä asentamaan ohjelmiston uudelleen tietokoneen avulla. Katso "
+"käyttöoppaasta lisäohjeita ennen kuin käynnistät laitteen uudelleen."
+
+msgid "zap"
+msgstr "kanavanvaihto"
+
+msgid "zapped"
+msgstr "vaihdettu"
+
+#~ msgid "no module"
+#~ msgstr "ei moduulia"
